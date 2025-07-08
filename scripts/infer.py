@@ -1,22 +1,38 @@
+"""
+file: 
+    infer.py
+description:
+    loads model checkpoints and generates atari enduro gameplay video.
+    also prints test average of any number of episodes required
+url:
+    https://kyscg.github.io/2025/07/11/dqnenduro
+author:
+    kyscg
+"""
+
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
-import gymnasium as gym
-import numpy as np
-from collections import deque
-from PIL import Image
-import imageio
-import ale_py
 
+import imageio
+import numpy as np
+from PIL import Image
+from collections import deque
+
+import ale_py
+import gymnasium as gym
+
+device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+print(f"Using device: {device}")
+
+# hyperparameter cache
 MODEL_PATH = "path to checkpoint"
-NUM_EVAL_EPISODES = 3
+NUM_EVAL_EPISODES = 7 # change this to 100 or 200
 VIDEO_FILENAME = "path to video"
 VIDEO_FPS = 30
 FRAME_SKIP = 4
 STACK_SIZE = 4
 
-device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-print(f"Using device: {device}")
 
 def preprocess_frame(frame): # taken from train.py
     img = Image.fromarray(frame)

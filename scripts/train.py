@@ -1,15 +1,27 @@
+"""
+file: 
+    train.py
+description: 
+    implementation of a deep q-network that teaches an agent to play enduro
+    from the atari gym. prints logs to console and saves model checkpoints.
+url:
+    https://kyscg.github.io/2025/07/11/dqnenduro
+author:
+    kyscg
+"""
+
 import torch
 import torch.nn as nn
 import torch.optim as optim
 import torch.nn.functional as F
 
+import random
 import numpy as np
 from PIL import Image
-import random
 from collections import deque
 
-import gymnasium as gym
 import ale_py
+import gymnasium as gym
 
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 print(f'Using device: {device}')

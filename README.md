@@ -4,10 +4,12 @@ This repository contains an implementation of the Deep Q-Network (DQN) algorithm
 
 The project demonstrates the core components of DQN and includes key optimizations for stable and efficient training, such as `uint8` frame storage for memory efficiency and reward clipping for improved learning stability.
 
+Read accompanying [blog post](https://kyscg.github.io/2025/07/11/dqnenduro) and watch [video](https://youtu.be/kRzhB5Fhd8M)
+
 ## Repository Structure
 
 ```
-enduro-dqn-project/
+enduro/
 ├── logs/                     # Directory containing training log files for different variants
 ├── models/                   # Directory to store trained model checkpoints
 │   └── dqn_enduro_best.pth   # The best performing trained model checkpoint
@@ -41,7 +43,7 @@ cd enduro
 python -m venv venv
 # On Linux/macOS:
 source venv/bin/activate
-# On Windows:
+# On Windows (why?):
 .\venv\Scripts\activate
 ```
 
@@ -65,7 +67,7 @@ The `infer.py` script will generate gameplay video for as many episodes as requi
 
 There were a lot of variants trained, with different results. Two log files have been attached that show how agents collect rewards in this setting. Two things that improved performance significantly from test average of 100 to 320 to 481 was 1) using `uint8` for memory management in the replay buffer and 2) clipping rewards before stacking them into the buffer.
 
-Overall, an average test performance of 481 was achieved which is comparable to the results in the paper/
+Overall, an average test performance of 481 was achieved which is comparable to the results in the paper.
 
 ## References
 

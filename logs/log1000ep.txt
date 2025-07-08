@@ -1,0 +1,1124 @@
+Start
+A.L.E: Arcade Learning Environment (version 0.11.1+2750686)
+[Powered by Stella]
+Using device: cuda:0
+Environment: ALE/Enduro-v5 | Action Space: 9 actions.
+--- Starting Initial Experience Collection (Random Actions) ---
+Collecting 50000 steps to fill replay buffer...
+Collected 10000/50000 frames for initial buffer.
+Collected 20000/50000 frames for initial buffer.
+Collected 30000/50000 frames for initial buffer.
+Collected 40000/50000 frames for initial buffer.
+Collected 50000/50000 frames for initial buffer.
+Initial experience collection finished. Replay Buffer size: 50000
+--- Starting Main Training Loop ---
+Episode 1/1000 | Total Frames: 50832 | Epsilon: 0.7120 | Reward: 0.00 | Avg 100-episode Reward: 0.00
+Episode 2/1000 | Total Frames: 51664 | Epsilon: 0.7100 | Reward: 0.00 | Avg 100-episode Reward: 0.00
+Episode 3/1000 | Total Frames: 52496 | Epsilon: 0.7079 | Reward: 0.00 | Avg 100-episode Reward: 0.00
+Episode 4/1000 | Total Frames: 53328 | Epsilon: 0.7059 | Reward: 0.00 | Avg 100-episode Reward: 0.00
+Episode 5/1000 | Total Frames: 54160 | Epsilon: 0.7039 | Reward: 0.00 | Avg 100-episode Reward: 0.00
+Episode 6/1000 | Total Frames: 54992 | Epsilon: 0.7019 | Reward: 0.00 | Avg 100-episode Reward: 0.00
+Episode 7/1000 | Total Frames: 55824 | Epsilon: 0.6999 | Reward: 0.00 | Avg 100-episode Reward: 0.00
+Episode 8/1000 | Total Frames: 56656 | Epsilon: 0.6979 | Reward: 0.00 | Avg 100-episode Reward: 0.00
+Episode 9/1000 | Total Frames: 57488 | Epsilon: 0.6959 | Reward: 0.00 | Avg 100-episode Reward: 0.00
+Episode 10/1000 | Total Frames: 58320 | Epsilon: 0.6939 | Reward: 0.00 | Avg 100-episode Reward: 0.00
+Episode 11/1000 | Total Frames: 59152 | Epsilon: 0.6920 | Reward: 0.00 | Avg 100-episode Reward: 0.00
+Episode 12/1000 | Total Frames: 59984 | Epsilon: 0.6900 | Reward: 0.00 | Avg 100-episode Reward: 0.00
+Target network updated at step 60000
+Episode 13/1000 | Total Frames: 60816 | Epsilon: 0.6880 | Reward: 0.00 | Avg 100-episode Reward: 0.00
+Episode 14/1000 | Total Frames: 61648 | Epsilon: 0.6861 | Reward: 0.00 | Avg 100-episode Reward: 0.00
+Episode 15/1000 | Total Frames: 62480 | Epsilon: 0.6841 | Reward: 0.00 | Avg 100-episode Reward: 0.00
+Episode 16/1000 | Total Frames: 63312 | Epsilon: 0.6822 | Reward: 0.00 | Avg 100-episode Reward: 0.00
+Episode 17/1000 | Total Frames: 64144 | Epsilon: 0.6803 | Reward: 0.00 | Avg 100-episode Reward: 0.00
+Episode 18/1000 | Total Frames: 64976 | Epsilon: 0.6783 | Reward: 0.00 | Avg 100-episode Reward: 0.00
+Episode 19/1000 | Total Frames: 65808 | Epsilon: 0.6764 | Reward: 0.00 | Avg 100-episode Reward: 0.00
+Episode 20/1000 | Total Frames: 66640 | Epsilon: 0.6745 | Reward: 0.00 | Avg 100-episode Reward: 0.00
+Episode 21/1000 | Total Frames: 67472 | Epsilon: 0.6726 | Reward: 0.00 | Avg 100-episode Reward: 0.00
+Episode 22/1000 | Total Frames: 68304 | Epsilon: 0.6707 | Reward: 0.00 | Avg 100-episode Reward: 0.00
+Episode 23/1000 | Total Frames: 69136 | Epsilon: 0.6688 | Reward: 0.00 | Avg 100-episode Reward: 0.00
+Episode 24/1000 | Total Frames: 69968 | Epsilon: 0.6669 | Reward: 0.00 | Avg 100-episode Reward: 0.00
+Target network updated at step 70000
+Episode 25/1000 | Total Frames: 70800 | Epsilon: 0.6650 | Reward: 0.00 | Avg 100-episode Reward: 0.00
+Episode 26/1000 | Total Frames: 71632 | Epsilon: 0.6631 | Reward: 0.00 | Avg 100-episode Reward: 0.00
+Episode 27/1000 | Total Frames: 72464 | Epsilon: 0.6613 | Reward: 0.00 | Avg 100-episode Reward: 0.00
+Episode 28/1000 | Total Frames: 73296 | Epsilon: 0.6594 | Reward: 0.00 | Avg 100-episode Reward: 0.00
+Episode 29/1000 | Total Frames: 74128 | Epsilon: 0.6576 | Reward: 0.00 | Avg 100-episode Reward: 0.00
+Episode 30/1000 | Total Frames: 74960 | Epsilon: 0.6557 | Reward: 0.00 | Avg 100-episode Reward: 0.00
+Episode 31/1000 | Total Frames: 75792 | Epsilon: 0.6539 | Reward: 0.00 | Avg 100-episode Reward: 0.00
+Episode 32/1000 | Total Frames: 76624 | Epsilon: 0.6520 | Reward: 0.00 | Avg 100-episode Reward: 0.00
+Episode 33/1000 | Total Frames: 77456 | Epsilon: 0.6502 | Reward: 0.00 | Avg 100-episode Reward: 0.00
+Episode 34/1000 | Total Frames: 78288 | Epsilon: 0.6484 | Reward: 0.00 | Avg 100-episode Reward: 0.00
+Episode 35/1000 | Total Frames: 79120 | Epsilon: 0.6465 | Reward: 0.00 | Avg 100-episode Reward: 0.00
+Episode 36/1000 | Total Frames: 79952 | Epsilon: 0.6447 | Reward: 0.00 | Avg 100-episode Reward: 0.00
+Target network updated at step 80000
+Episode 37/1000 | Total Frames: 80784 | Epsilon: 0.6429 | Reward: 0.00 | Avg 100-episode Reward: 0.00
+Episode 38/1000 | Total Frames: 81616 | Epsilon: 0.6411 | Reward: 0.00 | Avg 100-episode Reward: 0.00
+Episode 39/1000 | Total Frames: 82448 | Epsilon: 0.6393 | Reward: 0.00 | Avg 100-episode Reward: 0.00
+Episode 40/1000 | Total Frames: 83280 | Epsilon: 0.6375 | Reward: 0.00 | Avg 100-episode Reward: 0.00
+Episode 41/1000 | Total Frames: 84112 | Epsilon: 0.6357 | Reward: 0.00 | Avg 100-episode Reward: 0.00
+Episode 42/1000 | Total Frames: 84944 | Epsilon: 0.6339 | Reward: 0.00 | Avg 100-episode Reward: 0.00
+Episode 43/1000 | Total Frames: 85776 | Epsilon: 0.6322 | Reward: 0.00 | Avg 100-episode Reward: 0.00
+Episode 44/1000 | Total Frames: 86608 | Epsilon: 0.6304 | Reward: 0.00 | Avg 100-episode Reward: 0.00
+Episode 45/1000 | Total Frames: 87440 | Epsilon: 0.6286 | Reward: 0.00 | Avg 100-episode Reward: 0.00
+Episode 46/1000 | Total Frames: 88272 | Epsilon: 0.6269 | Reward: 1.00 | Avg 100-episode Reward: 0.02
+Episode 47/1000 | Total Frames: 89104 | Epsilon: 0.6251 | Reward: 0.00 | Avg 100-episode Reward: 0.02
+Episode 48/1000 | Total Frames: 89936 | Epsilon: 0.6234 | Reward: 0.00 | Avg 100-episode Reward: 0.02
+Target network updated at step 90000
+Episode 49/1000 | Total Frames: 90768 | Epsilon: 0.6217 | Reward: 0.00 | Avg 100-episode Reward: 0.02
+Episode 50/1000 | Total Frames: 91600 | Epsilon: 0.6199 | Reward: 0.00 | Avg 100-episode Reward: 0.02
+Model checkpoint saved after episode 50
+Episode 51/1000 | Total Frames: 92432 | Epsilon: 0.6182 | Reward: 0.00 | Avg 100-episode Reward: 0.02
+Episode 52/1000 | Total Frames: 93264 | Epsilon: 0.6165 | Reward: 0.00 | Avg 100-episode Reward: 0.02
+Episode 53/1000 | Total Frames: 94096 | Epsilon: 0.6148 | Reward: 0.00 | Avg 100-episode Reward: 0.02
+Episode 54/1000 | Total Frames: 94928 | Epsilon: 0.6130 | Reward: 0.00 | Avg 100-episode Reward: 0.02
+Episode 55/1000 | Total Frames: 95760 | Epsilon: 0.6113 | Reward: 0.00 | Avg 100-episode Reward: 0.02
+Episode 56/1000 | Total Frames: 96592 | Epsilon: 0.6096 | Reward: 0.00 | Avg 100-episode Reward: 0.02
+Episode 57/1000 | Total Frames: 97424 | Epsilon: 0.6079 | Reward: 0.00 | Avg 100-episode Reward: 0.02
+Episode 58/1000 | Total Frames: 98256 | Epsilon: 0.6063 | Reward: 0.00 | Avg 100-episode Reward: 0.02
+Episode 59/1000 | Total Frames: 99088 | Epsilon: 0.6046 | Reward: 0.00 | Avg 100-episode Reward: 0.02
+Episode 60/1000 | Total Frames: 99920 | Epsilon: 0.6029 | Reward: 0.00 | Avg 100-episode Reward: 0.02
+Target network updated at step 100000
+Episode 61/1000 | Total Frames: 100752 | Epsilon: 0.6012 | Reward: 0.00 | Avg 100-episode Reward: 0.02
+Episode 62/1000 | Total Frames: 101584 | Epsilon: 0.5996 | Reward: 0.00 | Avg 100-episode Reward: 0.02
+Episode 63/1000 | Total Frames: 102416 | Epsilon: 0.5979 | Reward: 0.00 | Avg 100-episode Reward: 0.02
+Episode 64/1000 | Total Frames: 103248 | Epsilon: 0.5962 | Reward: 0.00 | Avg 100-episode Reward: 0.02
+Episode 65/1000 | Total Frames: 104080 | Epsilon: 0.5946 | Reward: 0.00 | Avg 100-episode Reward: 0.02
+Episode 66/1000 | Total Frames: 104912 | Epsilon: 0.5930 | Reward: 0.00 | Avg 100-episode Reward: 0.02
+Episode 67/1000 | Total Frames: 105744 | Epsilon: 0.5913 | Reward: 0.00 | Avg 100-episode Reward: 0.01
+Episode 68/1000 | Total Frames: 106576 | Epsilon: 0.5897 | Reward: 0.00 | Avg 100-episode Reward: 0.01
+Episode 69/1000 | Total Frames: 107408 | Epsilon: 0.5881 | Reward: 0.00 | Avg 100-episode Reward: 0.01
+Episode 70/1000 | Total Frames: 108240 | Epsilon: 0.5864 | Reward: 0.00 | Avg 100-episode Reward: 0.01
+Episode 71/1000 | Total Frames: 109072 | Epsilon: 0.5848 | Reward: 0.00 | Avg 100-episode Reward: 0.01
+Episode 72/1000 | Total Frames: 109904 | Epsilon: 0.5832 | Reward: 0.00 | Avg 100-episode Reward: 0.01
+Target network updated at step 110000
+Episode 73/1000 | Total Frames: 110736 | Epsilon: 0.5816 | Reward: 0.00 | Avg 100-episode Reward: 0.01
+Episode 74/1000 | Total Frames: 111568 | Epsilon: 0.5800 | Reward: 0.00 | Avg 100-episode Reward: 0.01
+Episode 75/1000 | Total Frames: 112400 | Epsilon: 0.5784 | Reward: 0.00 | Avg 100-episode Reward: 0.01
+Episode 76/1000 | Total Frames: 113232 | Epsilon: 0.5768 | Reward: 0.00 | Avg 100-episode Reward: 0.01
+Episode 77/1000 | Total Frames: 114064 | Epsilon: 0.5752 | Reward: 0.00 | Avg 100-episode Reward: 0.01
+Episode 78/1000 | Total Frames: 114896 | Epsilon: 0.5737 | Reward: 0.00 | Avg 100-episode Reward: 0.01
+Episode 79/1000 | Total Frames: 115728 | Epsilon: 0.5721 | Reward: 0.00 | Avg 100-episode Reward: 0.01
+Episode 80/1000 | Total Frames: 116560 | Epsilon: 0.5705 | Reward: 0.00 | Avg 100-episode Reward: 0.01
+Episode 81/1000 | Total Frames: 117392 | Epsilon: 0.5690 | Reward: 0.00 | Avg 100-episode Reward: 0.01
+Episode 82/1000 | Total Frames: 118224 | Epsilon: 0.5674 | Reward: 0.00 | Avg 100-episode Reward: 0.01
+Episode 83/1000 | Total Frames: 119056 | Epsilon: 0.5658 | Reward: 0.00 | Avg 100-episode Reward: 0.01
+Episode 84/1000 | Total Frames: 119888 | Epsilon: 0.5643 | Reward: 0.00 | Avg 100-episode Reward: 0.01
+Target network updated at step 120000
+Episode 85/1000 | Total Frames: 120720 | Epsilon: 0.5628 | Reward: 0.00 | Avg 100-episode Reward: 0.01
+Episode 86/1000 | Total Frames: 121552 | Epsilon: 0.5612 | Reward: 2.00 | Avg 100-episode Reward: 0.03
+Episode 87/1000 | Total Frames: 122384 | Epsilon: 0.5597 | Reward: 0.00 | Avg 100-episode Reward: 0.03
+Episode 88/1000 | Total Frames: 123216 | Epsilon: 0.5582 | Reward: 0.00 | Avg 100-episode Reward: 0.03
+Episode 89/1000 | Total Frames: 124048 | Epsilon: 0.5566 | Reward: 0.00 | Avg 100-episode Reward: 0.03
+Episode 90/1000 | Total Frames: 124880 | Epsilon: 0.5551 | Reward: 0.00 | Avg 100-episode Reward: 0.03
+Episode 91/1000 | Total Frames: 125712 | Epsilon: 0.5536 | Reward: 0.00 | Avg 100-episode Reward: 0.03
+Episode 92/1000 | Total Frames: 126544 | Epsilon: 0.5521 | Reward: 0.00 | Avg 100-episode Reward: 0.03
+Episode 93/1000 | Total Frames: 127376 | Epsilon: 0.5506 | Reward: 0.00 | Avg 100-episode Reward: 0.03
+Episode 94/1000 | Total Frames: 128208 | Epsilon: 0.5491 | Reward: 0.00 | Avg 100-episode Reward: 0.03
+Episode 95/1000 | Total Frames: 129040 | Epsilon: 0.5476 | Reward: 0.00 | Avg 100-episode Reward: 0.03
+Episode 96/1000 | Total Frames: 129872 | Epsilon: 0.5461 | Reward: 0.00 | Avg 100-episode Reward: 0.03
+Target network updated at step 130000
+Episode 97/1000 | Total Frames: 130704 | Epsilon: 0.5446 | Reward: 0.00 | Avg 100-episode Reward: 0.03
+Episode 98/1000 | Total Frames: 131536 | Epsilon: 0.5432 | Reward: 0.00 | Avg 100-episode Reward: 0.03
+Episode 99/1000 | Total Frames: 132368 | Epsilon: 0.5417 | Reward: 0.00 | Avg 100-episode Reward: 0.03
+Episode 100/1000 | Total Frames: 133200 | Epsilon: 0.5402 | Reward: 0.00 | Avg 100-episode Reward: 0.03
+Model checkpoint saved after episode 100
+Episode 101/1000 | Total Frames: 134032 | Epsilon: 0.5388 | Reward: 0.00 | Avg 100-episode Reward: 0.03
+Episode 102/1000 | Total Frames: 134864 | Epsilon: 0.5373 | Reward: 0.00 | Avg 100-episode Reward: 0.03
+Episode 103/1000 | Total Frames: 135696 | Epsilon: 0.5358 | Reward: 0.00 | Avg 100-episode Reward: 0.03
+Episode 104/1000 | Total Frames: 136528 | Epsilon: 0.5344 | Reward: 0.00 | Avg 100-episode Reward: 0.03
+Episode 105/1000 | Total Frames: 137360 | Epsilon: 0.5330 | Reward: 0.00 | Avg 100-episode Reward: 0.03
+Episode 106/1000 | Total Frames: 138192 | Epsilon: 0.5315 | Reward: 3.00 | Avg 100-episode Reward: 0.06
+Episode 107/1000 | Total Frames: 139024 | Epsilon: 0.5301 | Reward: 0.00 | Avg 100-episode Reward: 0.06
+Episode 108/1000 | Total Frames: 139856 | Epsilon: 0.5287 | Reward: 0.00 | Avg 100-episode Reward: 0.06
+Target network updated at step 140000
+Episode 109/1000 | Total Frames: 140688 | Epsilon: 0.5272 | Reward: 0.00 | Avg 100-episode Reward: 0.06
+Episode 110/1000 | Total Frames: 141520 | Epsilon: 0.5258 | Reward: 0.00 | Avg 100-episode Reward: 0.06
+Episode 111/1000 | Total Frames: 142352 | Epsilon: 0.5244 | Reward: 1.00 | Avg 100-episode Reward: 0.07
+Episode 112/1000 | Total Frames: 143184 | Epsilon: 0.5230 | Reward: 0.00 | Avg 100-episode Reward: 0.07
+Episode 113/1000 | Total Frames: 144016 | Epsilon: 0.5216 | Reward: 2.00 | Avg 100-episode Reward: 0.09
+Episode 114/1000 | Total Frames: 144848 | Epsilon: 0.5202 | Reward: 0.00 | Avg 100-episode Reward: 0.09
+Episode 115/1000 | Total Frames: 145680 | Epsilon: 0.5188 | Reward: 0.00 | Avg 100-episode Reward: 0.09
+Episode 116/1000 | Total Frames: 146512 | Epsilon: 0.5174 | Reward: 0.00 | Avg 100-episode Reward: 0.09
+Episode 117/1000 | Total Frames: 147344 | Epsilon: 0.5160 | Reward: 0.00 | Avg 100-episode Reward: 0.09
+Episode 118/1000 | Total Frames: 148176 | Epsilon: 0.5146 | Reward: 0.00 | Avg 100-episode Reward: 0.09
+Episode 119/1000 | Total Frames: 149008 | Epsilon: 0.5132 | Reward: 1.00 | Avg 100-episode Reward: 0.10
+Episode 120/1000 | Total Frames: 149840 | Epsilon: 0.5119 | Reward: 0.00 | Avg 100-episode Reward: 0.10
+Target network updated at step 150000
+Episode 121/1000 | Total Frames: 150672 | Epsilon: 0.5105 | Reward: 1.00 | Avg 100-episode Reward: 0.11
+Episode 122/1000 | Total Frames: 151504 | Epsilon: 0.5091 | Reward: 3.00 | Avg 100-episode Reward: 0.14
+Episode 123/1000 | Total Frames: 152336 | Epsilon: 0.5078 | Reward: 0.00 | Avg 100-episode Reward: 0.14
+Episode 124/1000 | Total Frames: 153168 | Epsilon: 0.5064 | Reward: 0.00 | Avg 100-episode Reward: 0.14
+Episode 125/1000 | Total Frames: 154000 | Epsilon: 0.5051 | Reward: 0.00 | Avg 100-episode Reward: 0.14
+Episode 126/1000 | Total Frames: 154832 | Epsilon: 0.5037 | Reward: 0.00 | Avg 100-episode Reward: 0.14
+Episode 127/1000 | Total Frames: 155664 | Epsilon: 0.5024 | Reward: 1.00 | Avg 100-episode Reward: 0.15
+Episode 128/1000 | Total Frames: 156496 | Epsilon: 0.5010 | Reward: 0.00 | Avg 100-episode Reward: 0.15
+Episode 129/1000 | Total Frames: 157328 | Epsilon: 0.4997 | Reward: 0.00 | Avg 100-episode Reward: 0.15
+Episode 130/1000 | Total Frames: 158160 | Epsilon: 0.4984 | Reward: 0.00 | Avg 100-episode Reward: 0.15
+Episode 131/1000 | Total Frames: 158992 | Epsilon: 0.4971 | Reward: 3.00 | Avg 100-episode Reward: 0.18
+Episode 132/1000 | Total Frames: 159824 | Epsilon: 0.4957 | Reward: 0.00 | Avg 100-episode Reward: 0.18
+Target network updated at step 160000
+Episode 133/1000 | Total Frames: 160656 | Epsilon: 0.4944 | Reward: 0.00 | Avg 100-episode Reward: 0.18
+Episode 134/1000 | Total Frames: 161488 | Epsilon: 0.4931 | Reward: 0.00 | Avg 100-episode Reward: 0.18
+Episode 135/1000 | Total Frames: 162320 | Epsilon: 0.4918 | Reward: 0.00 | Avg 100-episode Reward: 0.18
+Episode 136/1000 | Total Frames: 163152 | Epsilon: 0.4905 | Reward: 0.00 | Avg 100-episode Reward: 0.18
+Episode 137/1000 | Total Frames: 163984 | Epsilon: 0.4892 | Reward: 2.00 | Avg 100-episode Reward: 0.20
+Episode 138/1000 | Total Frames: 164816 | Epsilon: 0.4879 | Reward: 0.00 | Avg 100-episode Reward: 0.20
+Episode 139/1000 | Total Frames: 165648 | Epsilon: 0.4866 | Reward: 0.00 | Avg 100-episode Reward: 0.20
+Episode 140/1000 | Total Frames: 166480 | Epsilon: 0.4853 | Reward: 0.00 | Avg 100-episode Reward: 0.20
+Episode 141/1000 | Total Frames: 167312 | Epsilon: 0.4841 | Reward: 2.00 | Avg 100-episode Reward: 0.22
+Episode 142/1000 | Total Frames: 168144 | Epsilon: 0.4828 | Reward: 7.00 | Avg 100-episode Reward: 0.29
+Episode 143/1000 | Total Frames: 168976 | Epsilon: 0.4815 | Reward: 0.00 | Avg 100-episode Reward: 0.29
+Episode 144/1000 | Total Frames: 169808 | Epsilon: 0.4803 | Reward: 2.00 | Avg 100-episode Reward: 0.31
+Target network updated at step 170000
+Episode 145/1000 | Total Frames: 170640 | Epsilon: 0.4790 | Reward: 0.00 | Avg 100-episode Reward: 0.31
+Episode 146/1000 | Total Frames: 171472 | Epsilon: 0.4777 | Reward: 0.00 | Avg 100-episode Reward: 0.30
+Episode 147/1000 | Total Frames: 172304 | Epsilon: 0.4765 | Reward: 0.00 | Avg 100-episode Reward: 0.30
+Episode 148/1000 | Total Frames: 173136 | Epsilon: 0.4752 | Reward: 0.00 | Avg 100-episode Reward: 0.30
+Episode 149/1000 | Total Frames: 173968 | Epsilon: 0.4740 | Reward: 0.00 | Avg 100-episode Reward: 0.30
+Episode 150/1000 | Total Frames: 174800 | Epsilon: 0.4727 | Reward: 1.00 | Avg 100-episode Reward: 0.31
+Model checkpoint saved after episode 150
+Episode 151/1000 | Total Frames: 175632 | Epsilon: 0.4715 | Reward: 0.00 | Avg 100-episode Reward: 0.31
+Episode 152/1000 | Total Frames: 176464 | Epsilon: 0.4703 | Reward: 3.00 | Avg 100-episode Reward: 0.34
+Episode 153/1000 | Total Frames: 177296 | Epsilon: 0.4690 | Reward: 0.00 | Avg 100-episode Reward: 0.34
+Episode 154/1000 | Total Frames: 178128 | Epsilon: 0.4678 | Reward: 0.00 | Avg 100-episode Reward: 0.34
+Episode 155/1000 | Total Frames: 178960 | Epsilon: 0.4666 | Reward: 0.00 | Avg 100-episode Reward: 0.34
+Episode 156/1000 | Total Frames: 179792 | Epsilon: 0.4654 | Reward: 0.00 | Avg 100-episode Reward: 0.34
+Target network updated at step 180000
+Episode 157/1000 | Total Frames: 180624 | Epsilon: 0.4642 | Reward: 0.00 | Avg 100-episode Reward: 0.34
+Episode 158/1000 | Total Frames: 181456 | Epsilon: 0.4629 | Reward: 0.00 | Avg 100-episode Reward: 0.34
+Episode 159/1000 | Total Frames: 182288 | Epsilon: 0.4617 | Reward: 0.00 | Avg 100-episode Reward: 0.34
+Episode 160/1000 | Total Frames: 183120 | Epsilon: 0.4605 | Reward: 0.00 | Avg 100-episode Reward: 0.34
+Episode 161/1000 | Total Frames: 183952 | Epsilon: 0.4593 | Reward: 0.00 | Avg 100-episode Reward: 0.34
+Episode 162/1000 | Total Frames: 184784 | Epsilon: 0.4581 | Reward: 0.00 | Avg 100-episode Reward: 0.34
+Episode 163/1000 | Total Frames: 185616 | Epsilon: 0.4570 | Reward: 0.00 | Avg 100-episode Reward: 0.34
+Episode 164/1000 | Total Frames: 186448 | Epsilon: 0.4558 | Reward: 0.00 | Avg 100-episode Reward: 0.34
+Episode 165/1000 | Total Frames: 187280 | Epsilon: 0.4546 | Reward: 0.00 | Avg 100-episode Reward: 0.34
+Episode 166/1000 | Total Frames: 188112 | Epsilon: 0.4534 | Reward: 0.00 | Avg 100-episode Reward: 0.34
+Episode 167/1000 | Total Frames: 188944 | Epsilon: 0.4522 | Reward: 1.00 | Avg 100-episode Reward: 0.35
+Episode 168/1000 | Total Frames: 189776 | Epsilon: 0.4511 | Reward: 0.00 | Avg 100-episode Reward: 0.35
+Target network updated at step 190000
+Episode 169/1000 | Total Frames: 190608 | Epsilon: 0.4499 | Reward: 0.00 | Avg 100-episode Reward: 0.35
+Episode 170/1000 | Total Frames: 191440 | Epsilon: 0.4487 | Reward: 1.00 | Avg 100-episode Reward: 0.36
+Episode 171/1000 | Total Frames: 192272 | Epsilon: 0.4476 | Reward: 0.00 | Avg 100-episode Reward: 0.36
+Episode 172/1000 | Total Frames: 193104 | Epsilon: 0.4464 | Reward: 0.00 | Avg 100-episode Reward: 0.36
+Episode 173/1000 | Total Frames: 193936 | Epsilon: 0.4453 | Reward: 8.00 | Avg 100-episode Reward: 0.44
+Episode 174/1000 | Total Frames: 194768 | Epsilon: 0.4441 | Reward: 0.00 | Avg 100-episode Reward: 0.44
+Episode 175/1000 | Total Frames: 195600 | Epsilon: 0.4430 | Reward: 0.00 | Avg 100-episode Reward: 0.44
+Episode 176/1000 | Total Frames: 196432 | Epsilon: 0.4418 | Reward: 0.00 | Avg 100-episode Reward: 0.44
+Episode 177/1000 | Total Frames: 197264 | Epsilon: 0.4407 | Reward: 3.00 | Avg 100-episode Reward: 0.47
+Episode 178/1000 | Total Frames: 198096 | Epsilon: 0.4396 | Reward: 0.00 | Avg 100-episode Reward: 0.47
+Episode 179/1000 | Total Frames: 198928 | Epsilon: 0.4384 | Reward: 1.00 | Avg 100-episode Reward: 0.48
+Episode 180/1000 | Total Frames: 199760 | Epsilon: 0.4373 | Reward: 0.00 | Avg 100-episode Reward: 0.48
+Target network updated at step 200000
+Episode 181/1000 | Total Frames: 200592 | Epsilon: 0.4362 | Reward: 4.00 | Avg 100-episode Reward: 0.52
+Episode 182/1000 | Total Frames: 201424 | Epsilon: 0.4351 | Reward: 1.00 | Avg 100-episode Reward: 0.53
+Episode 183/1000 | Total Frames: 202256 | Epsilon: 0.4340 | Reward: 0.00 | Avg 100-episode Reward: 0.53
+Episode 184/1000 | Total Frames: 203088 | Epsilon: 0.4329 | Reward: 0.00 | Avg 100-episode Reward: 0.53
+Episode 185/1000 | Total Frames: 203920 | Epsilon: 0.4318 | Reward: 0.00 | Avg 100-episode Reward: 0.53
+Episode 186/1000 | Total Frames: 204752 | Epsilon: 0.4307 | Reward: 1.00 | Avg 100-episode Reward: 0.52
+Episode 187/1000 | Total Frames: 205584 | Epsilon: 0.4296 | Reward: 0.00 | Avg 100-episode Reward: 0.52
+Episode 188/1000 | Total Frames: 206416 | Epsilon: 0.4285 | Reward: 0.00 | Avg 100-episode Reward: 0.52
+Episode 189/1000 | Total Frames: 207248 | Epsilon: 0.4274 | Reward: 1.00 | Avg 100-episode Reward: 0.53
+Episode 190/1000 | Total Frames: 208080 | Epsilon: 0.4263 | Reward: 0.00 | Avg 100-episode Reward: 0.53
+Episode 191/1000 | Total Frames: 208912 | Epsilon: 0.4252 | Reward: 0.00 | Avg 100-episode Reward: 0.53
+Episode 192/1000 | Total Frames: 209744 | Epsilon: 0.4241 | Reward: 0.00 | Avg 100-episode Reward: 0.53
+Target network updated at step 210000
+Episode 193/1000 | Total Frames: 210576 | Epsilon: 0.4230 | Reward: 1.00 | Avg 100-episode Reward: 0.54
+Episode 194/1000 | Total Frames: 211408 | Epsilon: 0.4220 | Reward: 0.00 | Avg 100-episode Reward: 0.54
+Episode 195/1000 | Total Frames: 212240 | Epsilon: 0.4209 | Reward: 3.00 | Avg 100-episode Reward: 0.57
+Episode 196/1000 | Total Frames: 213072 | Epsilon: 0.4198 | Reward: 0.00 | Avg 100-episode Reward: 0.57
+Episode 197/1000 | Total Frames: 213904 | Epsilon: 0.4188 | Reward: 2.00 | Avg 100-episode Reward: 0.59
+Episode 198/1000 | Total Frames: 214736 | Epsilon: 0.4177 | Reward: 0.00 | Avg 100-episode Reward: 0.59
+Episode 199/1000 | Total Frames: 215568 | Epsilon: 0.4167 | Reward: 2.00 | Avg 100-episode Reward: 0.61
+Episode 200/1000 | Total Frames: 216400 | Epsilon: 0.4156 | Reward: 4.00 | Avg 100-episode Reward: 0.65
+Model checkpoint saved after episode 200
+Episode 201/1000 | Total Frames: 217232 | Epsilon: 0.4145 | Reward: 3.00 | Avg 100-episode Reward: 0.68
+Episode 202/1000 | Total Frames: 218064 | Epsilon: 0.4135 | Reward: 1.00 | Avg 100-episode Reward: 0.69
+Episode 203/1000 | Total Frames: 218896 | Epsilon: 0.4125 | Reward: 0.00 | Avg 100-episode Reward: 0.69
+Episode 204/1000 | Total Frames: 219728 | Epsilon: 0.4114 | Reward: 3.00 | Avg 100-episode Reward: 0.72
+Target network updated at step 220000
+Episode 205/1000 | Total Frames: 220560 | Epsilon: 0.4104 | Reward: 0.00 | Avg 100-episode Reward: 0.72
+Episode 206/1000 | Total Frames: 221392 | Epsilon: 0.4094 | Reward: 0.00 | Avg 100-episode Reward: 0.69
+Episode 207/1000 | Total Frames: 222224 | Epsilon: 0.4083 | Reward: 0.00 | Avg 100-episode Reward: 0.69
+Episode 208/1000 | Total Frames: 223056 | Epsilon: 0.4073 | Reward: 4.00 | Avg 100-episode Reward: 0.73
+Episode 209/1000 | Total Frames: 223888 | Epsilon: 0.4063 | Reward: 4.00 | Avg 100-episode Reward: 0.77
+Episode 210/1000 | Total Frames: 224720 | Epsilon: 0.4053 | Reward: 0.00 | Avg 100-episode Reward: 0.77
+Episode 211/1000 | Total Frames: 225552 | Epsilon: 0.4043 | Reward: 0.00 | Avg 100-episode Reward: 0.76
+Episode 212/1000 | Total Frames: 226384 | Epsilon: 0.4032 | Reward: 1.00 | Avg 100-episode Reward: 0.77
+Episode 213/1000 | Total Frames: 227216 | Epsilon: 0.4022 | Reward: 4.00 | Avg 100-episode Reward: 0.79
+Episode 214/1000 | Total Frames: 228048 | Epsilon: 0.4012 | Reward: 5.00 | Avg 100-episode Reward: 0.84
+Episode 215/1000 | Total Frames: 228880 | Epsilon: 0.4002 | Reward: 4.00 | Avg 100-episode Reward: 0.88
+Episode 216/1000 | Total Frames: 229712 | Epsilon: 0.3992 | Reward: 0.00 | Avg 100-episode Reward: 0.88
+Target network updated at step 230000
+Episode 217/1000 | Total Frames: 230544 | Epsilon: 0.3982 | Reward: 6.00 | Avg 100-episode Reward: 0.94
+Episode 218/1000 | Total Frames: 231376 | Epsilon: 0.3972 | Reward: 10.00 | Avg 100-episode Reward: 1.04
+Episode 219/1000 | Total Frames: 232208 | Epsilon: 0.3963 | Reward: 4.00 | Avg 100-episode Reward: 1.07
+Episode 220/1000 | Total Frames: 233040 | Epsilon: 0.3953 | Reward: 4.00 | Avg 100-episode Reward: 1.11
+Episode 221/1000 | Total Frames: 233872 | Epsilon: 0.3943 | Reward: 0.00 | Avg 100-episode Reward: 1.10
+Episode 222/1000 | Total Frames: 234704 | Epsilon: 0.3933 | Reward: 5.00 | Avg 100-episode Reward: 1.12
+Episode 223/1000 | Total Frames: 235536 | Epsilon: 0.3923 | Reward: 0.00 | Avg 100-episode Reward: 1.12
+Episode 224/1000 | Total Frames: 236368 | Epsilon: 0.3914 | Reward: 1.00 | Avg 100-episode Reward: 1.13
+Episode 225/1000 | Total Frames: 237200 | Epsilon: 0.3904 | Reward: 11.00 | Avg 100-episode Reward: 1.24
+Episode 226/1000 | Total Frames: 238032 | Epsilon: 0.3894 | Reward: 0.00 | Avg 100-episode Reward: 1.24
+Episode 227/1000 | Total Frames: 238864 | Epsilon: 0.3885 | Reward: 0.00 | Avg 100-episode Reward: 1.23
+Episode 228/1000 | Total Frames: 239696 | Epsilon: 0.3875 | Reward: 0.00 | Avg 100-episode Reward: 1.23
+Target network updated at step 240000
+Episode 229/1000 | Total Frames: 240528 | Epsilon: 0.3866 | Reward: 0.00 | Avg 100-episode Reward: 1.23
+Episode 230/1000 | Total Frames: 241360 | Epsilon: 0.3856 | Reward: 0.00 | Avg 100-episode Reward: 1.23
+Episode 231/1000 | Total Frames: 242192 | Epsilon: 0.3847 | Reward: 6.00 | Avg 100-episode Reward: 1.26
+Episode 232/1000 | Total Frames: 243024 | Epsilon: 0.3837 | Reward: 0.00 | Avg 100-episode Reward: 1.26
+Episode 233/1000 | Total Frames: 243856 | Epsilon: 0.3828 | Reward: 10.00 | Avg 100-episode Reward: 1.36
+Episode 234/1000 | Total Frames: 244688 | Epsilon: 0.3818 | Reward: 0.00 | Avg 100-episode Reward: 1.36
+Episode 235/1000 | Total Frames: 245520 | Epsilon: 0.3809 | Reward: 0.00 | Avg 100-episode Reward: 1.36
+Episode 236/1000 | Total Frames: 246352 | Epsilon: 0.3800 | Reward: 9.00 | Avg 100-episode Reward: 1.45
+Episode 237/1000 | Total Frames: 247184 | Epsilon: 0.3790 | Reward: 2.00 | Avg 100-episode Reward: 1.45
+Episode 238/1000 | Total Frames: 248016 | Epsilon: 0.3781 | Reward: 12.00 | Avg 100-episode Reward: 1.57
+Episode 239/1000 | Total Frames: 248848 | Epsilon: 0.3772 | Reward: 2.00 | Avg 100-episode Reward: 1.59
+Episode 240/1000 | Total Frames: 249680 | Epsilon: 0.3763 | Reward: 0.00 | Avg 100-episode Reward: 1.59
+Target network updated at step 250000
+Episode 241/1000 | Total Frames: 250512 | Epsilon: 0.3753 | Reward: 3.00 | Avg 100-episode Reward: 1.60
+Episode 242/1000 | Total Frames: 251344 | Epsilon: 0.3744 | Reward: 7.00 | Avg 100-episode Reward: 1.60
+Episode 243/1000 | Total Frames: 252176 | Epsilon: 0.3735 | Reward: 3.00 | Avg 100-episode Reward: 1.63
+Episode 244/1000 | Total Frames: 253008 | Epsilon: 0.3726 | Reward: 0.00 | Avg 100-episode Reward: 1.61
+Episode 245/1000 | Total Frames: 253840 | Epsilon: 0.3717 | Reward: 2.00 | Avg 100-episode Reward: 1.63
+Episode 246/1000 | Total Frames: 254672 | Epsilon: 0.3708 | Reward: 9.00 | Avg 100-episode Reward: 1.72
+Episode 247/1000 | Total Frames: 255504 | Epsilon: 0.3699 | Reward: 2.00 | Avg 100-episode Reward: 1.74
+Episode 248/1000 | Total Frames: 256336 | Epsilon: 0.3690 | Reward: 5.00 | Avg 100-episode Reward: 1.79
+Episode 249/1000 | Total Frames: 257168 | Epsilon: 0.3681 | Reward: 0.00 | Avg 100-episode Reward: 1.79
+Episode 250/1000 | Total Frames: 258000 | Epsilon: 0.3672 | Reward: 0.00 | Avg 100-episode Reward: 1.78
+Model checkpoint saved after episode 250
+Episode 251/1000 | Total Frames: 258832 | Epsilon: 0.3663 | Reward: 8.00 | Avg 100-episode Reward: 1.86
+Episode 252/1000 | Total Frames: 259664 | Epsilon: 0.3654 | Reward: 1.00 | Avg 100-episode Reward: 1.84
+Target network updated at step 260000
+Episode 253/1000 | Total Frames: 260496 | Epsilon: 0.3646 | Reward: 0.00 | Avg 100-episode Reward: 1.84
+Episode 254/1000 | Total Frames: 261328 | Epsilon: 0.3637 | Reward: 0.00 | Avg 100-episode Reward: 1.84
+Episode 255/1000 | Total Frames: 262160 | Epsilon: 0.3628 | Reward: 0.00 | Avg 100-episode Reward: 1.84
+Episode 256/1000 | Total Frames: 262992 | Epsilon: 0.3619 | Reward: 4.00 | Avg 100-episode Reward: 1.88
+Episode 257/1000 | Total Frames: 263824 | Epsilon: 0.3611 | Reward: 1.00 | Avg 100-episode Reward: 1.89
+Episode 258/1000 | Total Frames: 264656 | Epsilon: 0.3602 | Reward: 1.00 | Avg 100-episode Reward: 1.90
+Episode 259/1000 | Total Frames: 265488 | Epsilon: 0.3593 | Reward: 0.00 | Avg 100-episode Reward: 1.90
+Episode 260/1000 | Total Frames: 266320 | Epsilon: 0.3585 | Reward: 22.00 | Avg 100-episode Reward: 2.12
+Episode 261/1000 | Total Frames: 267152 | Epsilon: 0.3576 | Reward: 7.00 | Avg 100-episode Reward: 2.19
+Episode 262/1000 | Total Frames: 267984 | Epsilon: 0.3568 | Reward: 6.00 | Avg 100-episode Reward: 2.25
+Episode 263/1000 | Total Frames: 268816 | Epsilon: 0.3559 | Reward: 12.00 | Avg 100-episode Reward: 2.37
+Episode 264/1000 | Total Frames: 269648 | Epsilon: 0.3551 | Reward: 6.00 | Avg 100-episode Reward: 2.43
+Target network updated at step 270000
+Episode 265/1000 | Total Frames: 270480 | Epsilon: 0.3542 | Reward: 8.00 | Avg 100-episode Reward: 2.51
+Episode 266/1000 | Total Frames: 271312 | Epsilon: 0.3534 | Reward: 3.00 | Avg 100-episode Reward: 2.54
+Episode 267/1000 | Total Frames: 272144 | Epsilon: 0.3525 | Reward: 5.00 | Avg 100-episode Reward: 2.58
+Episode 268/1000 | Total Frames: 272976 | Epsilon: 0.3517 | Reward: 1.00 | Avg 100-episode Reward: 2.59
+Episode 269/1000 | Total Frames: 273808 | Epsilon: 0.3508 | Reward: 4.00 | Avg 100-episode Reward: 2.63
+Episode 270/1000 | Total Frames: 274640 | Epsilon: 0.3500 | Reward: 18.00 | Avg 100-episode Reward: 2.80
+Episode 271/1000 | Total Frames: 275472 | Epsilon: 0.3492 | Reward: 14.00 | Avg 100-episode Reward: 2.94
+Episode 272/1000 | Total Frames: 276304 | Epsilon: 0.3484 | Reward: 20.00 | Avg 100-episode Reward: 3.14
+Episode 273/1000 | Total Frames: 277136 | Epsilon: 0.3475 | Reward: 2.00 | Avg 100-episode Reward: 3.08
+Episode 274/1000 | Total Frames: 277968 | Epsilon: 0.3467 | Reward: 2.00 | Avg 100-episode Reward: 3.10
+Episode 275/1000 | Total Frames: 278800 | Epsilon: 0.3459 | Reward: 0.00 | Avg 100-episode Reward: 3.10
+Episode 276/1000 | Total Frames: 279632 | Epsilon: 0.3451 | Reward: 0.00 | Avg 100-episode Reward: 3.10
+Target network updated at step 280000
+Episode 277/1000 | Total Frames: 280464 | Epsilon: 0.3443 | Reward: 2.00 | Avg 100-episode Reward: 3.09
+Episode 278/1000 | Total Frames: 281296 | Epsilon: 0.3434 | Reward: 7.00 | Avg 100-episode Reward: 3.16
+Episode 279/1000 | Total Frames: 282128 | Epsilon: 0.3426 | Reward: 17.00 | Avg 100-episode Reward: 3.32
+Episode 280/1000 | Total Frames: 282960 | Epsilon: 0.3418 | Reward: 9.00 | Avg 100-episode Reward: 3.41
+Episode 281/1000 | Total Frames: 283792 | Epsilon: 0.3410 | Reward: 6.00 | Avg 100-episode Reward: 3.43
+Episode 282/1000 | Total Frames: 284624 | Epsilon: 0.3402 | Reward: 39.00 | Avg 100-episode Reward: 3.81
+Episode 283/1000 | Total Frames: 285456 | Epsilon: 0.3394 | Reward: 28.00 | Avg 100-episode Reward: 4.09
+Episode 284/1000 | Total Frames: 286288 | Epsilon: 0.3386 | Reward: 13.00 | Avg 100-episode Reward: 4.22
+Episode 285/1000 | Total Frames: 287120 | Epsilon: 0.3378 | Reward: 7.00 | Avg 100-episode Reward: 4.29
+Episode 286/1000 | Total Frames: 287952 | Epsilon: 0.3370 | Reward: 12.00 | Avg 100-episode Reward: 4.40
+Episode 287/1000 | Total Frames: 288784 | Epsilon: 0.3363 | Reward: 21.00 | Avg 100-episode Reward: 4.61
+Episode 288/1000 | Total Frames: 289616 | Epsilon: 0.3355 | Reward: 8.00 | Avg 100-episode Reward: 4.69
+Target network updated at step 290000
+Episode 289/1000 | Total Frames: 290448 | Epsilon: 0.3347 | Reward: 14.00 | Avg 100-episode Reward: 4.82
+Episode 290/1000 | Total Frames: 291280 | Epsilon: 0.3339 | Reward: 2.00 | Avg 100-episode Reward: 4.84
+Episode 291/1000 | Total Frames: 292112 | Epsilon: 0.3331 | Reward: 38.00 | Avg 100-episode Reward: 5.22
+Episode 292/1000 | Total Frames: 292944 | Epsilon: 0.3324 | Reward: 23.00 | Avg 100-episode Reward: 5.45
+Episode 293/1000 | Total Frames: 293776 | Epsilon: 0.3316 | Reward: 13.00 | Avg 100-episode Reward: 5.57
+Episode 294/1000 | Total Frames: 294608 | Epsilon: 0.3308 | Reward: 6.00 | Avg 100-episode Reward: 5.63
+Episode 295/1000 | Total Frames: 295440 | Epsilon: 0.3301 | Reward: 13.00 | Avg 100-episode Reward: 5.73
+Episode 296/1000 | Total Frames: 296272 | Epsilon: 0.3293 | Reward: 13.00 | Avg 100-episode Reward: 5.86
+Episode 297/1000 | Total Frames: 297104 | Epsilon: 0.3285 | Reward: 21.00 | Avg 100-episode Reward: 6.05
+Episode 298/1000 | Total Frames: 297936 | Epsilon: 0.3278 | Reward: 7.00 | Avg 100-episode Reward: 6.12
+Episode 299/1000 | Total Frames: 298768 | Epsilon: 0.3270 | Reward: 2.00 | Avg 100-episode Reward: 6.12
+Episode 300/1000 | Total Frames: 299600 | Epsilon: 0.3263 | Reward: 23.00 | Avg 100-episode Reward: 6.31
+Model checkpoint saved after episode 300
+Target network updated at step 300000
+Episode 301/1000 | Total Frames: 300432 | Epsilon: 0.3255 | Reward: 13.00 | Avg 100-episode Reward: 6.41
+Episode 302/1000 | Total Frames: 301264 | Epsilon: 0.3248 | Reward: 38.00 | Avg 100-episode Reward: 6.78
+Episode 303/1000 | Total Frames: 302096 | Epsilon: 0.3240 | Reward: 0.00 | Avg 100-episode Reward: 6.78
+Episode 304/1000 | Total Frames: 302928 | Epsilon: 0.3233 | Reward: 0.00 | Avg 100-episode Reward: 6.75
+Episode 305/1000 | Total Frames: 303760 | Epsilon: 0.3225 | Reward: 2.00 | Avg 100-episode Reward: 6.77
+Episode 306/1000 | Total Frames: 304592 | Epsilon: 0.3218 | Reward: 10.00 | Avg 100-episode Reward: 6.87
+Episode 307/1000 | Total Frames: 305424 | Epsilon: 0.3210 | Reward: 41.00 | Avg 100-episode Reward: 7.28
+Episode 308/1000 | Total Frames: 306256 | Epsilon: 0.3203 | Reward: 17.00 | Avg 100-episode Reward: 7.41
+Episode 309/1000 | Total Frames: 307088 | Epsilon: 0.3196 | Reward: 40.00 | Avg 100-episode Reward: 7.77
+Episode 310/1000 | Total Frames: 307920 | Epsilon: 0.3189 | Reward: 46.00 | Avg 100-episode Reward: 8.23
+Episode 311/1000 | Total Frames: 308752 | Epsilon: 0.3181 | Reward: 12.00 | Avg 100-episode Reward: 8.35
+Episode 312/1000 | Total Frames: 309584 | Epsilon: 0.3174 | Reward: 26.00 | Avg 100-episode Reward: 8.60
+Target network updated at step 310000
+Episode 313/1000 | Total Frames: 310416 | Epsilon: 0.3167 | Reward: 15.00 | Avg 100-episode Reward: 8.71
+Episode 314/1000 | Total Frames: 311248 | Epsilon: 0.3160 | Reward: 41.00 | Avg 100-episode Reward: 9.07
+Episode 315/1000 | Total Frames: 312080 | Epsilon: 0.3152 | Reward: 17.00 | Avg 100-episode Reward: 9.20
+Episode 316/1000 | Total Frames: 312912 | Epsilon: 0.3145 | Reward: 20.00 | Avg 100-episode Reward: 9.40
+Episode 317/1000 | Total Frames: 313744 | Epsilon: 0.3138 | Reward: 33.00 | Avg 100-episode Reward: 9.67
+Episode 318/1000 | Total Frames: 314576 | Epsilon: 0.3131 | Reward: 15.00 | Avg 100-episode Reward: 9.72
+Episode 319/1000 | Total Frames: 315408 | Epsilon: 0.3124 | Reward: 42.00 | Avg 100-episode Reward: 10.10
+Episode 320/1000 | Total Frames: 316240 | Epsilon: 0.3117 | Reward: 4.00 | Avg 100-episode Reward: 10.10
+Episode 321/1000 | Total Frames: 317072 | Epsilon: 0.3110 | Reward: 29.00 | Avg 100-episode Reward: 10.39
+Episode 322/1000 | Total Frames: 317904 | Epsilon: 0.3103 | Reward: 0.00 | Avg 100-episode Reward: 10.34
+Episode 323/1000 | Total Frames: 318736 | Epsilon: 0.3096 | Reward: 12.00 | Avg 100-episode Reward: 10.46
+Episode 324/1000 | Total Frames: 319568 | Epsilon: 0.3089 | Reward: 34.00 | Avg 100-episode Reward: 10.79
+Target network updated at step 320000
+Episode 325/1000 | Total Frames: 320400 | Epsilon: 0.3082 | Reward: 17.00 | Avg 100-episode Reward: 10.85
+Episode 326/1000 | Total Frames: 321232 | Epsilon: 0.3075 | Reward: 25.00 | Avg 100-episode Reward: 11.10
+Episode 327/1000 | Total Frames: 322064 | Epsilon: 0.3068 | Reward: 10.00 | Avg 100-episode Reward: 11.20
+Episode 328/1000 | Total Frames: 322896 | Epsilon: 0.3061 | Reward: 23.00 | Avg 100-episode Reward: 11.43
+Episode 329/1000 | Total Frames: 323728 | Epsilon: 0.3054 | Reward: 38.00 | Avg 100-episode Reward: 11.81
+Episode 330/1000 | Total Frames: 324560 | Epsilon: 0.3048 | Reward: 19.00 | Avg 100-episode Reward: 12.00
+Episode 331/1000 | Total Frames: 325392 | Epsilon: 0.3041 | Reward: 35.00 | Avg 100-episode Reward: 12.29
+Episode 332/1000 | Total Frames: 326224 | Epsilon: 0.3034 | Reward: 55.00 | Avg 100-episode Reward: 12.84
+Episode 333/1000 | Total Frames: 327056 | Epsilon: 0.3027 | Reward: 18.00 | Avg 100-episode Reward: 12.92
+Episode 334/1000 | Total Frames: 327888 | Epsilon: 0.3021 | Reward: 16.00 | Avg 100-episode Reward: 13.08
+Episode 335/1000 | Total Frames: 328720 | Epsilon: 0.3014 | Reward: 2.00 | Avg 100-episode Reward: 13.10
+Episode 336/1000 | Total Frames: 329552 | Epsilon: 0.3007 | Reward: 51.00 | Avg 100-episode Reward: 13.52
+Target network updated at step 330000
+Episode 337/1000 | Total Frames: 330384 | Epsilon: 0.3000 | Reward: 78.00 | Avg 100-episode Reward: 14.28
+Episode 338/1000 | Total Frames: 331216 | Epsilon: 0.2994 | Reward: 7.00 | Avg 100-episode Reward: 14.23
+Episode 339/1000 | Total Frames: 332048 | Epsilon: 0.2987 | Reward: 26.00 | Avg 100-episode Reward: 14.47
+Episode 340/1000 | Total Frames: 332880 | Epsilon: 0.2981 | Reward: 57.00 | Avg 100-episode Reward: 15.04
+Episode 341/1000 | Total Frames: 333712 | Epsilon: 0.2974 | Reward: 7.00 | Avg 100-episode Reward: 15.08
+Episode 342/1000 | Total Frames: 334544 | Epsilon: 0.2967 | Reward: 45.00 | Avg 100-episode Reward: 15.46
+Episode 343/1000 | Total Frames: 335376 | Epsilon: 0.2961 | Reward: 5.00 | Avg 100-episode Reward: 15.48
+Episode 344/1000 | Total Frames: 336208 | Epsilon: 0.2954 | Reward: 2.00 | Avg 100-episode Reward: 15.50
+Episode 345/1000 | Total Frames: 337040 | Epsilon: 0.2948 | Reward: 45.00 | Avg 100-episode Reward: 15.93
+Episode 346/1000 | Total Frames: 337872 | Epsilon: 0.2941 | Reward: 27.00 | Avg 100-episode Reward: 16.11
+Episode 347/1000 | Total Frames: 338704 | Epsilon: 0.2935 | Reward: 51.00 | Avg 100-episode Reward: 16.60
+Episode 348/1000 | Total Frames: 339536 | Epsilon: 0.2929 | Reward: 47.00 | Avg 100-episode Reward: 17.02
+Target network updated at step 340000
+Episode 349/1000 | Total Frames: 340368 | Epsilon: 0.2922 | Reward: 30.00 | Avg 100-episode Reward: 17.32
+Episode 350/1000 | Total Frames: 341200 | Epsilon: 0.2916 | Reward: 24.00 | Avg 100-episode Reward: 17.56
+Model checkpoint saved after episode 350
+Episode 351/1000 | Total Frames: 342032 | Epsilon: 0.2909 | Reward: 24.00 | Avg 100-episode Reward: 17.72
+Episode 352/1000 | Total Frames: 342864 | Epsilon: 0.2903 | Reward: 43.00 | Avg 100-episode Reward: 18.14
+Episode 353/1000 | Total Frames: 343696 | Epsilon: 0.2897 | Reward: 67.00 | Avg 100-episode Reward: 18.81
+Episode 354/1000 | Total Frames: 344528 | Epsilon: 0.2890 | Reward: 25.00 | Avg 100-episode Reward: 19.06
+Episode 355/1000 | Total Frames: 345360 | Epsilon: 0.2884 | Reward: 34.00 | Avg 100-episode Reward: 19.40
+Episode 356/1000 | Total Frames: 346192 | Epsilon: 0.2878 | Reward: 34.00 | Avg 100-episode Reward: 19.70
+Episode 357/1000 | Total Frames: 347024 | Epsilon: 0.2872 | Reward: 47.00 | Avg 100-episode Reward: 20.16
+Episode 358/1000 | Total Frames: 347856 | Epsilon: 0.2865 | Reward: 30.00 | Avg 100-episode Reward: 20.45
+Episode 359/1000 | Total Frames: 348688 | Epsilon: 0.2859 | Reward: 39.00 | Avg 100-episode Reward: 20.84
+Episode 360/1000 | Total Frames: 349520 | Epsilon: 0.2853 | Reward: 57.00 | Avg 100-episode Reward: 21.19
+Target network updated at step 350000
+Episode 361/1000 | Total Frames: 350352 | Epsilon: 0.2847 | Reward: 50.00 | Avg 100-episode Reward: 21.62
+Episode 362/1000 | Total Frames: 351184 | Epsilon: 0.2841 | Reward: 38.00 | Avg 100-episode Reward: 21.94
+Episode 363/1000 | Total Frames: 352016 | Epsilon: 0.2835 | Reward: 27.00 | Avg 100-episode Reward: 22.09
+Episode 364/1000 | Total Frames: 352848 | Epsilon: 0.2829 | Reward: 13.00 | Avg 100-episode Reward: 22.16
+Episode 365/1000 | Total Frames: 353680 | Epsilon: 0.2822 | Reward: 8.00 | Avg 100-episode Reward: 22.16
+Episode 366/1000 | Total Frames: 354512 | Epsilon: 0.2816 | Reward: 41.00 | Avg 100-episode Reward: 22.54
+Episode 367/1000 | Total Frames: 355344 | Epsilon: 0.2810 | Reward: 80.00 | Avg 100-episode Reward: 23.29
+Episode 368/1000 | Total Frames: 356176 | Epsilon: 0.2804 | Reward: 47.00 | Avg 100-episode Reward: 23.75
+Episode 369/1000 | Total Frames: 357008 | Epsilon: 0.2798 | Reward: 118.00 | Avg 100-episode Reward: 24.89
+Episode 370/1000 | Total Frames: 357840 | Epsilon: 0.2792 | Reward: 88.00 | Avg 100-episode Reward: 25.59
+Episode 371/1000 | Total Frames: 358672 | Epsilon: 0.2786 | Reward: 46.00 | Avg 100-episode Reward: 25.91
+Episode 372/1000 | Total Frames: 359504 | Epsilon: 0.2780 | Reward: 51.00 | Avg 100-episode Reward: 26.22
+Target network updated at step 360000
+Episode 373/1000 | Total Frames: 360336 | Epsilon: 0.2775 | Reward: 92.00 | Avg 100-episode Reward: 27.12
+Episode 374/1000 | Total Frames: 361168 | Epsilon: 0.2769 | Reward: 31.00 | Avg 100-episode Reward: 27.41
+Episode 375/1000 | Total Frames: 362000 | Epsilon: 0.2763 | Reward: 42.00 | Avg 100-episode Reward: 27.83
+Episode 376/1000 | Total Frames: 362832 | Epsilon: 0.2757 | Reward: 113.00 | Avg 100-episode Reward: 28.96
+Episode 377/1000 | Total Frames: 363664 | Epsilon: 0.2751 | Reward: 44.00 | Avg 100-episode Reward: 29.38
+Episode 378/1000 | Total Frames: 364496 | Epsilon: 0.2745 | Reward: 84.00 | Avg 100-episode Reward: 30.15
+Episode 379/1000 | Total Frames: 365328 | Epsilon: 0.2739 | Reward: 57.00 | Avg 100-episode Reward: 30.55
+Episode 380/1000 | Total Frames: 366160 | Epsilon: 0.2734 | Reward: 50.00 | Avg 100-episode Reward: 30.96
+Episode 381/1000 | Total Frames: 366992 | Epsilon: 0.2728 | Reward: 34.00 | Avg 100-episode Reward: 31.24
+Episode 382/1000 | Total Frames: 367824 | Epsilon: 0.2722 | Reward: 43.00 | Avg 100-episode Reward: 31.28
+Episode 383/1000 | Total Frames: 368656 | Epsilon: 0.2716 | Reward: 30.00 | Avg 100-episode Reward: 31.30
+Episode 384/1000 | Total Frames: 369488 | Epsilon: 0.2711 | Reward: 69.00 | Avg 100-episode Reward: 31.86
+Target network updated at step 370000
+Episode 385/1000 | Total Frames: 370320 | Epsilon: 0.2705 | Reward: 54.00 | Avg 100-episode Reward: 32.33
+Episode 386/1000 | Total Frames: 371152 | Epsilon: 0.2699 | Reward: 70.00 | Avg 100-episode Reward: 32.91
+Episode 387/1000 | Total Frames: 371984 | Epsilon: 0.2694 | Reward: 43.00 | Avg 100-episode Reward: 33.13
+Episode 388/1000 | Total Frames: 372816 | Epsilon: 0.2688 | Reward: 45.00 | Avg 100-episode Reward: 33.50
+Episode 389/1000 | Total Frames: 373648 | Epsilon: 0.2683 | Reward: 54.00 | Avg 100-episode Reward: 33.90
+Episode 390/1000 | Total Frames: 374480 | Epsilon: 0.2677 | Reward: 29.00 | Avg 100-episode Reward: 34.17
+Episode 391/1000 | Total Frames: 375312 | Epsilon: 0.2671 | Reward: 46.00 | Avg 100-episode Reward: 34.25
+Episode 392/1000 | Total Frames: 376144 | Epsilon: 0.2666 | Reward: 62.00 | Avg 100-episode Reward: 34.64
+Episode 393/1000 | Total Frames: 376976 | Epsilon: 0.2660 | Reward: 26.00 | Avg 100-episode Reward: 34.77
+Episode 394/1000 | Total Frames: 377808 | Epsilon: 0.2655 | Reward: 89.00 | Avg 100-episode Reward: 35.60
+Episode 395/1000 | Total Frames: 378640 | Epsilon: 0.2649 | Reward: 83.00 | Avg 100-episode Reward: 36.30
+Episode 396/1000 | Total Frames: 379472 | Epsilon: 0.2644 | Reward: 58.00 | Avg 100-episode Reward: 36.75
+Target network updated at step 380000
+Episode 397/1000 | Total Frames: 380304 | Epsilon: 0.2638 | Reward: 85.00 | Avg 100-episode Reward: 37.39
+Episode 398/1000 | Total Frames: 381136 | Epsilon: 0.2633 | Reward: 42.00 | Avg 100-episode Reward: 37.74
+Episode 399/1000 | Total Frames: 381968 | Epsilon: 0.2627 | Reward: 45.00 | Avg 100-episode Reward: 38.17
+Episode 400/1000 | Total Frames: 382800 | Epsilon: 0.2622 | Reward: 83.00 | Avg 100-episode Reward: 38.77
+Model checkpoint saved after episode 400
+Episode 401/1000 | Total Frames: 383632 | Epsilon: 0.2617 | Reward: 23.00 | Avg 100-episode Reward: 38.87
+Episode 402/1000 | Total Frames: 384464 | Epsilon: 0.2611 | Reward: 65.00 | Avg 100-episode Reward: 39.14
+Episode 403/1000 | Total Frames: 385296 | Epsilon: 0.2606 | Reward: 30.00 | Avg 100-episode Reward: 39.44
+Episode 404/1000 | Total Frames: 386128 | Epsilon: 0.2601 | Reward: 48.00 | Avg 100-episode Reward: 39.92
+Episode 405/1000 | Total Frames: 386960 | Epsilon: 0.2595 | Reward: 83.00 | Avg 100-episode Reward: 40.73
+Episode 406/1000 | Total Frames: 387792 | Epsilon: 0.2590 | Reward: 67.00 | Avg 100-episode Reward: 41.30
+Episode 407/1000 | Total Frames: 388624 | Epsilon: 0.2585 | Reward: 41.00 | Avg 100-episode Reward: 41.30
+Episode 408/1000 | Total Frames: 389456 | Epsilon: 0.2579 | Reward: 44.00 | Avg 100-episode Reward: 41.57
+Target network updated at step 390000
+Episode 409/1000 | Total Frames: 390288 | Epsilon: 0.2574 | Reward: 90.00 | Avg 100-episode Reward: 42.07
+Episode 410/1000 | Total Frames: 391120 | Epsilon: 0.2569 | Reward: 98.00 | Avg 100-episode Reward: 42.59
+Episode 411/1000 | Total Frames: 391952 | Epsilon: 0.2564 | Reward: 57.00 | Avg 100-episode Reward: 43.04
+Episode 412/1000 | Total Frames: 392784 | Epsilon: 0.2559 | Reward: 91.00 | Avg 100-episode Reward: 43.69
+Episode 413/1000 | Total Frames: 393616 | Epsilon: 0.2553 | Reward: 103.00 | Avg 100-episode Reward: 44.57
+Episode 414/1000 | Total Frames: 394448 | Epsilon: 0.2548 | Reward: 33.00 | Avg 100-episode Reward: 44.49
+Episode 415/1000 | Total Frames: 395280 | Epsilon: 0.2543 | Reward: 29.00 | Avg 100-episode Reward: 44.61
+Episode 416/1000 | Total Frames: 396112 | Epsilon: 0.2538 | Reward: 49.00 | Avg 100-episode Reward: 44.90
+Episode 417/1000 | Total Frames: 396944 | Epsilon: 0.2533 | Reward: 39.00 | Avg 100-episode Reward: 44.96
+Episode 418/1000 | Total Frames: 397776 | Epsilon: 0.2528 | Reward: 69.00 | Avg 100-episode Reward: 45.50
+Episode 419/1000 | Total Frames: 398608 | Epsilon: 0.2523 | Reward: 52.00 | Avg 100-episode Reward: 45.60
+Episode 420/1000 | Total Frames: 399440 | Epsilon: 0.2518 | Reward: 55.00 | Avg 100-episode Reward: 46.11
+Target network updated at step 400000
+Episode 421/1000 | Total Frames: 400272 | Epsilon: 0.2513 | Reward: 67.00 | Avg 100-episode Reward: 46.49
+Episode 422/1000 | Total Frames: 401104 | Epsilon: 0.2508 | Reward: 80.00 | Avg 100-episode Reward: 47.29
+Episode 423/1000 | Total Frames: 401936 | Epsilon: 0.2503 | Reward: 78.00 | Avg 100-episode Reward: 47.95
+Episode 424/1000 | Total Frames: 402768 | Epsilon: 0.2498 | Reward: 24.00 | Avg 100-episode Reward: 47.85
+Episode 425/1000 | Total Frames: 403600 | Epsilon: 0.2493 | Reward: 70.00 | Avg 100-episode Reward: 48.38
+Episode 426/1000 | Total Frames: 404432 | Epsilon: 0.2488 | Reward: 69.00 | Avg 100-episode Reward: 48.82
+Episode 427/1000 | Total Frames: 405264 | Epsilon: 0.2483 | Reward: 47.00 | Avg 100-episode Reward: 49.19
+Episode 428/1000 | Total Frames: 406096 | Epsilon: 0.2478 | Reward: 69.00 | Avg 100-episode Reward: 49.65
+Episode 429/1000 | Total Frames: 406928 | Epsilon: 0.2473 | Reward: 51.00 | Avg 100-episode Reward: 49.78
+Episode 430/1000 | Total Frames: 407760 | Epsilon: 0.2468 | Reward: 92.00 | Avg 100-episode Reward: 50.51
+Episode 431/1000 | Total Frames: 408592 | Epsilon: 0.2463 | Reward: 115.00 | Avg 100-episode Reward: 51.31
+Episode 432/1000 | Total Frames: 409424 | Epsilon: 0.2458 | Reward: 95.00 | Avg 100-episode Reward: 51.71
+Target network updated at step 410000
+Episode 433/1000 | Total Frames: 410256 | Epsilon: 0.2453 | Reward: 65.00 | Avg 100-episode Reward: 52.18
+Episode 434/1000 | Total Frames: 411088 | Epsilon: 0.2449 | Reward: 102.00 | Avg 100-episode Reward: 53.04
+Episode 435/1000 | Total Frames: 411920 | Epsilon: 0.2444 | Reward: 62.00 | Avg 100-episode Reward: 53.64
+Episode 436/1000 | Total Frames: 412752 | Epsilon: 0.2439 | Reward: 81.00 | Avg 100-episode Reward: 53.94
+Episode 437/1000 | Total Frames: 413584 | Epsilon: 0.2434 | Reward: 91.00 | Avg 100-episode Reward: 54.07
+Episode 438/1000 | Total Frames: 414416 | Epsilon: 0.2429 | Reward: 77.00 | Avg 100-episode Reward: 54.77
+Episode 439/1000 | Total Frames: 415248 | Epsilon: 0.2425 | Reward: 57.00 | Avg 100-episode Reward: 55.08
+Episode 440/1000 | Total Frames: 416080 | Epsilon: 0.2420 | Reward: 73.00 | Avg 100-episode Reward: 55.24
+Episode 441/1000 | Total Frames: 416912 | Epsilon: 0.2415 | Reward: 100.00 | Avg 100-episode Reward: 56.17
+Episode 442/1000 | Total Frames: 417744 | Epsilon: 0.2410 | Reward: 115.00 | Avg 100-episode Reward: 56.87
+Episode 443/1000 | Total Frames: 418576 | Epsilon: 0.2406 | Reward: 100.00 | Avg 100-episode Reward: 57.82
+Episode 444/1000 | Total Frames: 419408 | Epsilon: 0.2401 | Reward: 93.00 | Avg 100-episode Reward: 58.73
+Target network updated at step 420000
+Episode 445/1000 | Total Frames: 420240 | Epsilon: 0.2396 | Reward: 119.00 | Avg 100-episode Reward: 59.47
+Episode 446/1000 | Total Frames: 421072 | Epsilon: 0.2392 | Reward: 49.00 | Avg 100-episode Reward: 59.69
+Episode 447/1000 | Total Frames: 421904 | Epsilon: 0.2387 | Reward: 84.00 | Avg 100-episode Reward: 60.02
+Episode 448/1000 | Total Frames: 422736 | Epsilon: 0.2383 | Reward: 96.00 | Avg 100-episode Reward: 60.51
+Episode 449/1000 | Total Frames: 423568 | Epsilon: 0.2378 | Reward: 97.00 | Avg 100-episode Reward: 61.18
+Episode 450/1000 | Total Frames: 424400 | Epsilon: 0.2373 | Reward: 100.00 | Avg 100-episode Reward: 61.94
+Model checkpoint saved after episode 450
+Episode 451/1000 | Total Frames: 425232 | Epsilon: 0.2369 | Reward: 72.00 | Avg 100-episode Reward: 62.42
+Episode 452/1000 | Total Frames: 426064 | Epsilon: 0.2364 | Reward: 92.00 | Avg 100-episode Reward: 62.91
+Episode 453/1000 | Total Frames: 426896 | Epsilon: 0.2360 | Reward: 126.00 | Avg 100-episode Reward: 63.50
+Episode 454/1000 | Total Frames: 427728 | Epsilon: 0.2355 | Reward: 84.00 | Avg 100-episode Reward: 64.09
+Episode 455/1000 | Total Frames: 428560 | Epsilon: 0.2351 | Reward: 104.00 | Avg 100-episode Reward: 64.79
+Episode 456/1000 | Total Frames: 429392 | Epsilon: 0.2346 | Reward: 86.00 | Avg 100-episode Reward: 65.31
+Target network updated at step 430000
+Episode 457/1000 | Total Frames: 430224 | Epsilon: 0.2342 | Reward: 94.00 | Avg 100-episode Reward: 65.78
+Episode 458/1000 | Total Frames: 431056 | Epsilon: 0.2337 | Reward: 41.00 | Avg 100-episode Reward: 65.89
+Episode 459/1000 | Total Frames: 431888 | Epsilon: 0.2333 | Reward: 103.00 | Avg 100-episode Reward: 66.53
+Episode 460/1000 | Total Frames: 432720 | Epsilon: 0.2328 | Reward: 115.00 | Avg 100-episode Reward: 67.11
+Episode 461/1000 | Total Frames: 433552 | Epsilon: 0.2324 | Reward: 84.00 | Avg 100-episode Reward: 67.45
+Episode 462/1000 | Total Frames: 434384 | Epsilon: 0.2320 | Reward: 94.00 | Avg 100-episode Reward: 68.01
+Episode 463/1000 | Total Frames: 435216 | Epsilon: 0.2315 | Reward: 135.00 | Avg 100-episode Reward: 69.09
+Episode 464/1000 | Total Frames: 436048 | Epsilon: 0.2311 | Reward: 76.00 | Avg 100-episode Reward: 69.72
+Episode 465/1000 | Total Frames: 436880 | Epsilon: 0.2307 | Reward: 106.00 | Avg 100-episode Reward: 70.70
+Episode 466/1000 | Total Frames: 437712 | Epsilon: 0.2302 | Reward: 75.00 | Avg 100-episode Reward: 71.04
+Episode 467/1000 | Total Frames: 438544 | Epsilon: 0.2298 | Reward: 124.00 | Avg 100-episode Reward: 71.48
+Episode 468/1000 | Total Frames: 439376 | Epsilon: 0.2294 | Reward: 73.00 | Avg 100-episode Reward: 71.74
+Target network updated at step 440000
+Episode 469/1000 | Total Frames: 440208 | Epsilon: 0.2289 | Reward: 99.00 | Avg 100-episode Reward: 71.55
+Episode 470/1000 | Total Frames: 441040 | Epsilon: 0.2285 | Reward: 94.00 | Avg 100-episode Reward: 71.61
+Episode 471/1000 | Total Frames: 441872 | Epsilon: 0.2281 | Reward: 48.00 | Avg 100-episode Reward: 71.63
+Episode 472/1000 | Total Frames: 442704 | Epsilon: 0.2276 | Reward: 87.00 | Avg 100-episode Reward: 71.99
+Episode 473/1000 | Total Frames: 443536 | Epsilon: 0.2272 | Reward: 99.00 | Avg 100-episode Reward: 72.06
+Episode 474/1000 | Total Frames: 444368 | Epsilon: 0.2268 | Reward: 49.00 | Avg 100-episode Reward: 72.24
+Episode 475/1000 | Total Frames: 445200 | Epsilon: 0.2264 | Reward: 49.00 | Avg 100-episode Reward: 72.31
+Episode 476/1000 | Total Frames: 446032 | Epsilon: 0.2260 | Reward: 84.00 | Avg 100-episode Reward: 72.02
+Episode 477/1000 | Total Frames: 446864 | Epsilon: 0.2255 | Reward: 112.00 | Avg 100-episode Reward: 72.70
+Episode 478/1000 | Total Frames: 447696 | Epsilon: 0.2251 | Reward: 67.00 | Avg 100-episode Reward: 72.53
+Episode 479/1000 | Total Frames: 448528 | Epsilon: 0.2247 | Reward: 122.00 | Avg 100-episode Reward: 73.18
+Episode 480/1000 | Total Frames: 449360 | Epsilon: 0.2243 | Reward: 75.00 | Avg 100-episode Reward: 73.43
+Target network updated at step 450000
+Episode 481/1000 | Total Frames: 450192 | Epsilon: 0.2239 | Reward: 76.00 | Avg 100-episode Reward: 73.85
+Episode 482/1000 | Total Frames: 451024 | Epsilon: 0.2235 | Reward: 119.00 | Avg 100-episode Reward: 74.61
+Episode 483/1000 | Total Frames: 451856 | Epsilon: 0.2231 | Reward: 94.00 | Avg 100-episode Reward: 75.25
+Episode 484/1000 | Total Frames: 452688 | Epsilon: 0.2226 | Reward: 107.00 | Avg 100-episode Reward: 75.63
+Episode 485/1000 | Total Frames: 453520 | Epsilon: 0.2222 | Reward: 115.00 | Avg 100-episode Reward: 76.24
+Episode 486/1000 | Total Frames: 454352 | Epsilon: 0.2218 | Reward: 85.00 | Avg 100-episode Reward: 76.39
+Episode 487/1000 | Total Frames: 455184 | Epsilon: 0.2214 | Reward: 93.00 | Avg 100-episode Reward: 76.89
+Episode 488/1000 | Total Frames: 456016 | Epsilon: 0.2210 | Reward: 102.00 | Avg 100-episode Reward: 77.46
+Episode 489/1000 | Total Frames: 456848 | Epsilon: 0.2206 | Reward: 104.00 | Avg 100-episode Reward: 77.96
+Episode 490/1000 | Total Frames: 457680 | Epsilon: 0.2202 | Reward: 144.00 | Avg 100-episode Reward: 79.11
+Episode 491/1000 | Total Frames: 458512 | Epsilon: 0.2198 | Reward: 107.00 | Avg 100-episode Reward: 79.72
+Episode 492/1000 | Total Frames: 459344 | Epsilon: 0.2194 | Reward: 90.00 | Avg 100-episode Reward: 80.00
+Target network updated at step 460000
+Episode 493/1000 | Total Frames: 460176 | Epsilon: 0.2190 | Reward: 76.00 | Avg 100-episode Reward: 80.50
+Episode 494/1000 | Total Frames: 461008 | Epsilon: 0.2186 | Reward: 88.00 | Avg 100-episode Reward: 80.49
+Episode 495/1000 | Total Frames: 461840 | Epsilon: 0.2182 | Reward: 104.00 | Avg 100-episode Reward: 80.70
+Episode 496/1000 | Total Frames: 462672 | Epsilon: 0.2178 | Reward: 111.00 | Avg 100-episode Reward: 81.23
+Episode 497/1000 | Total Frames: 463504 | Epsilon: 0.2175 | Reward: 84.00 | Avg 100-episode Reward: 81.22
+Episode 498/1000 | Total Frames: 464336 | Epsilon: 0.2171 | Reward: 88.00 | Avg 100-episode Reward: 81.68
+Episode 499/1000 | Total Frames: 465168 | Epsilon: 0.2167 | Reward: 53.00 | Avg 100-episode Reward: 81.76
+Episode 500/1000 | Total Frames: 466000 | Epsilon: 0.2163 | Reward: 101.00 | Avg 100-episode Reward: 81.94
+Model checkpoint saved after episode 500
+Episode 501/1000 | Total Frames: 466832 | Epsilon: 0.2159 | Reward: 123.00 | Avg 100-episode Reward: 82.94
+Episode 502/1000 | Total Frames: 467664 | Epsilon: 0.2155 | Reward: 76.00 | Avg 100-episode Reward: 83.05
+Episode 503/1000 | Total Frames: 468496 | Epsilon: 0.2151 | Reward: 91.00 | Avg 100-episode Reward: 83.66
+Episode 504/1000 | Total Frames: 469328 | Epsilon: 0.2148 | Reward: 128.00 | Avg 100-episode Reward: 84.46
+Target network updated at step 470000
+Episode 505/1000 | Total Frames: 470160 | Epsilon: 0.2144 | Reward: 88.00 | Avg 100-episode Reward: 84.51
+Episode 506/1000 | Total Frames: 470992 | Epsilon: 0.2140 | Reward: 126.00 | Avg 100-episode Reward: 85.10
+Episode 507/1000 | Total Frames: 471824 | Epsilon: 0.2136 | Reward: 69.00 | Avg 100-episode Reward: 85.38
+Episode 508/1000 | Total Frames: 472656 | Epsilon: 0.2132 | Reward: 93.00 | Avg 100-episode Reward: 85.87
+Episode 509/1000 | Total Frames: 473488 | Epsilon: 0.2129 | Reward: 59.00 | Avg 100-episode Reward: 85.56
+Episode 510/1000 | Total Frames: 474320 | Epsilon: 0.2125 | Reward: 68.00 | Avg 100-episode Reward: 85.26
+Episode 511/1000 | Total Frames: 475152 | Epsilon: 0.2121 | Reward: 115.00 | Avg 100-episode Reward: 85.84
+Episode 512/1000 | Total Frames: 475984 | Epsilon: 0.2117 | Reward: 46.00 | Avg 100-episode Reward: 85.39
+Episode 513/1000 | Total Frames: 476816 | Epsilon: 0.2114 | Reward: 124.00 | Avg 100-episode Reward: 85.60
+Episode 514/1000 | Total Frames: 477648 | Epsilon: 0.2110 | Reward: 115.00 | Avg 100-episode Reward: 86.42
+Episode 515/1000 | Total Frames: 478480 | Epsilon: 0.2106 | Reward: 70.00 | Avg 100-episode Reward: 86.83
+Episode 516/1000 | Total Frames: 479312 | Epsilon: 0.2103 | Reward: 111.00 | Avg 100-episode Reward: 87.45
+Target network updated at step 480000
+Episode 517/1000 | Total Frames: 480144 | Epsilon: 0.2099 | Reward: 109.00 | Avg 100-episode Reward: 88.15
+Episode 518/1000 | Total Frames: 480976 | Epsilon: 0.2095 | Reward: 103.00 | Avg 100-episode Reward: 88.49
+Episode 519/1000 | Total Frames: 481808 | Epsilon: 0.2092 | Reward: 102.00 | Avg 100-episode Reward: 88.99
+Episode 520/1000 | Total Frames: 482640 | Epsilon: 0.2088 | Reward: 111.00 | Avg 100-episode Reward: 89.55
+Episode 521/1000 | Total Frames: 483472 | Epsilon: 0.2084 | Reward: 58.00 | Avg 100-episode Reward: 89.46
+Episode 522/1000 | Total Frames: 484304 | Epsilon: 0.2081 | Reward: 67.00 | Avg 100-episode Reward: 89.33
+Episode 523/1000 | Total Frames: 485136 | Epsilon: 0.2077 | Reward: 122.00 | Avg 100-episode Reward: 89.77
+Episode 524/1000 | Total Frames: 485968 | Epsilon: 0.2074 | Reward: 132.00 | Avg 100-episode Reward: 90.85
+Episode 525/1000 | Total Frames: 486800 | Epsilon: 0.2070 | Reward: 58.00 | Avg 100-episode Reward: 90.73
+Episode 526/1000 | Total Frames: 487632 | Epsilon: 0.2066 | Reward: 63.00 | Avg 100-episode Reward: 90.67
+Episode 527/1000 | Total Frames: 488464 | Epsilon: 0.2063 | Reward: 117.00 | Avg 100-episode Reward: 91.37
+Episode 528/1000 | Total Frames: 489296 | Epsilon: 0.2059 | Reward: 130.00 | Avg 100-episode Reward: 91.98
+Target network updated at step 490000
+Episode 529/1000 | Total Frames: 490128 | Epsilon: 0.2056 | Reward: 127.00 | Avg 100-episode Reward: 92.74
+Episode 530/1000 | Total Frames: 490960 | Epsilon: 0.2052 | Reward: 138.00 | Avg 100-episode Reward: 93.20
+Episode 531/1000 | Total Frames: 491792 | Epsilon: 0.2049 | Reward: 118.00 | Avg 100-episode Reward: 93.23
+Episode 532/1000 | Total Frames: 492624 | Epsilon: 0.2045 | Reward: 112.00 | Avg 100-episode Reward: 93.40
+Episode 533/1000 | Total Frames: 493456 | Epsilon: 0.2042 | Reward: 105.00 | Avg 100-episode Reward: 93.80
+Episode 534/1000 | Total Frames: 494288 | Epsilon: 0.2038 | Reward: 116.00 | Avg 100-episode Reward: 93.94
+Episode 535/1000 | Total Frames: 495120 | Epsilon: 0.2035 | Reward: 84.00 | Avg 100-episode Reward: 94.16
+Episode 536/1000 | Total Frames: 495952 | Epsilon: 0.2032 | Reward: 116.00 | Avg 100-episode Reward: 94.51
+Episode 537/1000 | Total Frames: 496784 | Epsilon: 0.2028 | Reward: 63.00 | Avg 100-episode Reward: 94.23
+Episode 538/1000 | Total Frames: 497616 | Epsilon: 0.2025 | Reward: 107.00 | Avg 100-episode Reward: 94.53
+Episode 539/1000 | Total Frames: 498448 | Epsilon: 0.2021 | Reward: 90.00 | Avg 100-episode Reward: 94.86
+Episode 540/1000 | Total Frames: 499280 | Epsilon: 0.2018 | Reward: 91.00 | Avg 100-episode Reward: 95.04
+Target network updated at step 500000
+Episode 541/1000 | Total Frames: 500112 | Epsilon: 0.2015 | Reward: 107.00 | Avg 100-episode Reward: 95.11
+Episode 542/1000 | Total Frames: 500944 | Epsilon: 0.2011 | Reward: 117.00 | Avg 100-episode Reward: 95.13
+Episode 543/1000 | Total Frames: 501776 | Epsilon: 0.2008 | Reward: 119.00 | Avg 100-episode Reward: 95.32
+Episode 544/1000 | Total Frames: 502608 | Epsilon: 0.2004 | Reward: 82.00 | Avg 100-episode Reward: 95.21
+Episode 545/1000 | Total Frames: 503440 | Epsilon: 0.2001 | Reward: 122.00 | Avg 100-episode Reward: 95.24
+Episode 546/1000 | Total Frames: 504272 | Epsilon: 0.1998 | Reward: 106.00 | Avg 100-episode Reward: 95.81
+Episode 547/1000 | Total Frames: 505104 | Epsilon: 0.1994 | Reward: 125.00 | Avg 100-episode Reward: 96.22
+Episode 548/1000 | Total Frames: 505936 | Epsilon: 0.1991 | Reward: 76.00 | Avg 100-episode Reward: 96.02
+Episode 549/1000 | Total Frames: 506768 | Epsilon: 0.1988 | Reward: 116.00 | Avg 100-episode Reward: 96.21
+Episode 550/1000 | Total Frames: 507600 | Epsilon: 0.1985 | Reward: 127.00 | Avg 100-episode Reward: 96.48
+Model checkpoint saved after episode 550
+Episode 551/1000 | Total Frames: 508432 | Epsilon: 0.1981 | Reward: 130.00 | Avg 100-episode Reward: 97.06
+Episode 552/1000 | Total Frames: 509264 | Epsilon: 0.1978 | Reward: 110.00 | Avg 100-episode Reward: 97.24
+Target network updated at step 510000
+Episode 553/1000 | Total Frames: 510096 | Epsilon: 0.1975 | Reward: 97.00 | Avg 100-episode Reward: 96.95
+Episode 554/1000 | Total Frames: 510928 | Epsilon: 0.1972 | Reward: 146.00 | Avg 100-episode Reward: 97.57
+Episode 555/1000 | Total Frames: 511760 | Epsilon: 0.1968 | Reward: 94.00 | Avg 100-episode Reward: 97.47
+Episode 556/1000 | Total Frames: 512592 | Epsilon: 0.1965 | Reward: 154.00 | Avg 100-episode Reward: 98.15
+Episode 557/1000 | Total Frames: 513424 | Epsilon: 0.1962 | Reward: 83.00 | Avg 100-episode Reward: 98.04
+Episode 558/1000 | Total Frames: 514256 | Epsilon: 0.1959 | Reward: 130.00 | Avg 100-episode Reward: 98.93
+Episode 559/1000 | Total Frames: 515088 | Epsilon: 0.1956 | Reward: 53.00 | Avg 100-episode Reward: 98.43
+Episode 560/1000 | Total Frames: 515920 | Epsilon: 0.1952 | Reward: 88.00 | Avg 100-episode Reward: 98.16
+Episode 561/1000 | Total Frames: 516752 | Epsilon: 0.1949 | Reward: 116.00 | Avg 100-episode Reward: 98.48
+Episode 562/1000 | Total Frames: 517584 | Epsilon: 0.1946 | Reward: 122.00 | Avg 100-episode Reward: 98.76
+Episode 563/1000 | Total Frames: 518416 | Epsilon: 0.1943 | Reward: 145.00 | Avg 100-episode Reward: 98.86
+Episode 564/1000 | Total Frames: 519248 | Epsilon: 0.1940 | Reward: 46.00 | Avg 100-episode Reward: 98.56
+Target network updated at step 520000
+Episode 565/1000 | Total Frames: 520080 | Epsilon: 0.1937 | Reward: 112.00 | Avg 100-episode Reward: 98.62
+Episode 566/1000 | Total Frames: 520912 | Epsilon: 0.1934 | Reward: 85.00 | Avg 100-episode Reward: 98.72
+Episode 567/1000 | Total Frames: 521744 | Epsilon: 0.1930 | Reward: 102.00 | Avg 100-episode Reward: 98.50
+Episode 568/1000 | Total Frames: 522576 | Epsilon: 0.1927 | Reward: 97.00 | Avg 100-episode Reward: 98.74
+Episode 569/1000 | Total Frames: 523408 | Epsilon: 0.1924 | Reward: 117.00 | Avg 100-episode Reward: 98.92
+Episode 570/1000 | Total Frames: 524240 | Epsilon: 0.1921 | Reward: 121.00 | Avg 100-episode Reward: 99.19
+Episode 571/1000 | Total Frames: 525072 | Epsilon: 0.1918 | Reward: 75.00 | Avg 100-episode Reward: 99.46
+Episode 572/1000 | Total Frames: 525904 | Epsilon: 0.1915 | Reward: 110.00 | Avg 100-episode Reward: 99.69
+Episode 573/1000 | Total Frames: 526736 | Epsilon: 0.1912 | Reward: 100.00 | Avg 100-episode Reward: 99.70
+Episode 574/1000 | Total Frames: 527568 | Epsilon: 0.1909 | Reward: 131.00 | Avg 100-episode Reward: 100.52
+Episode 575/1000 | Total Frames: 528400 | Epsilon: 0.1906 | Reward: 127.00 | Avg 100-episode Reward: 101.30
+Episode 576/1000 | Total Frames: 529232 | Epsilon: 0.1903 | Reward: 149.00 | Avg 100-episode Reward: 101.95
+Target network updated at step 530000
+Episode 577/1000 | Total Frames: 530064 | Epsilon: 0.1900 | Reward: 119.00 | Avg 100-episode Reward: 102.02
+Episode 578/1000 | Total Frames: 530896 | Epsilon: 0.1897 | Reward: 138.00 | Avg 100-episode Reward: 102.73
+Episode 579/1000 | Total Frames: 531728 | Epsilon: 0.1894 | Reward: 123.00 | Avg 100-episode Reward: 102.74
+Episode 580/1000 | Total Frames: 532560 | Epsilon: 0.1891 | Reward: 130.00 | Avg 100-episode Reward: 103.29
+Episode 581/1000 | Total Frames: 533392 | Epsilon: 0.1888 | Reward: 123.00 | Avg 100-episode Reward: 103.76
+Episode 582/1000 | Total Frames: 534224 | Epsilon: 0.1885 | Reward: 132.00 | Avg 100-episode Reward: 103.89
+Episode 583/1000 | Total Frames: 535056 | Epsilon: 0.1882 | Reward: 124.00 | Avg 100-episode Reward: 104.19
+Episode 584/1000 | Total Frames: 535888 | Epsilon: 0.1879 | Reward: 132.00 | Avg 100-episode Reward: 104.44
+Episode 585/1000 | Total Frames: 536720 | Epsilon: 0.1876 | Reward: 128.00 | Avg 100-episode Reward: 104.57
+Episode 586/1000 | Total Frames: 537552 | Epsilon: 0.1873 | Reward: 111.00 | Avg 100-episode Reward: 104.83
+Episode 587/1000 | Total Frames: 538384 | Epsilon: 0.1871 | Reward: 109.00 | Avg 100-episode Reward: 104.99
+Episode 588/1000 | Total Frames: 539216 | Epsilon: 0.1868 | Reward: 99.00 | Avg 100-episode Reward: 104.96
+Target network updated at step 540000
+Episode 589/1000 | Total Frames: 540048 | Epsilon: 0.1865 | Reward: 139.00 | Avg 100-episode Reward: 105.31
+Episode 590/1000 | Total Frames: 540880 | Epsilon: 0.1862 | Reward: 104.00 | Avg 100-episode Reward: 104.91
+Episode 591/1000 | Total Frames: 541712 | Epsilon: 0.1859 | Reward: 114.00 | Avg 100-episode Reward: 104.98
+Episode 592/1000 | Total Frames: 542544 | Epsilon: 0.1856 | Reward: 117.00 | Avg 100-episode Reward: 105.25
+Episode 593/1000 | Total Frames: 543376 | Epsilon: 0.1853 | Reward: 170.00 | Avg 100-episode Reward: 106.19
+Episode 594/1000 | Total Frames: 544208 | Epsilon: 0.1850 | Reward: 84.00 | Avg 100-episode Reward: 106.15
+Episode 595/1000 | Total Frames: 545040 | Epsilon: 0.1848 | Reward: 111.00 | Avg 100-episode Reward: 106.22
+Episode 596/1000 | Total Frames: 545872 | Epsilon: 0.1845 | Reward: 141.00 | Avg 100-episode Reward: 106.52
+Episode 597/1000 | Total Frames: 546704 | Epsilon: 0.1842 | Reward: 100.00 | Avg 100-episode Reward: 106.68
+Episode 598/1000 | Total Frames: 547536 | Epsilon: 0.1839 | Reward: 122.00 | Avg 100-episode Reward: 107.02
+Episode 599/1000 | Total Frames: 548368 | Epsilon: 0.1836 | Reward: 109.00 | Avg 100-episode Reward: 107.58
+Episode 600/1000 | Total Frames: 549200 | Epsilon: 0.1834 | Reward: 99.00 | Avg 100-episode Reward: 107.56
+Model checkpoint saved after episode 600
+Target network updated at step 550000
+Episode 601/1000 | Total Frames: 550032 | Epsilon: 0.1831 | Reward: 113.00 | Avg 100-episode Reward: 107.46
+Episode 602/1000 | Total Frames: 550864 | Epsilon: 0.1828 | Reward: 115.00 | Avg 100-episode Reward: 107.85
+Episode 603/1000 | Total Frames: 551696 | Epsilon: 0.1825 | Reward: 133.00 | Avg 100-episode Reward: 108.27
+Episode 604/1000 | Total Frames: 552528 | Epsilon: 0.1823 | Reward: 170.00 | Avg 100-episode Reward: 108.69
+Episode 605/1000 | Total Frames: 553360 | Epsilon: 0.1820 | Reward: 139.00 | Avg 100-episode Reward: 109.20
+Episode 606/1000 | Total Frames: 554192 | Epsilon: 0.1817 | Reward: 154.00 | Avg 100-episode Reward: 109.48
+Episode 607/1000 | Total Frames: 555024 | Epsilon: 0.1814 | Reward: 132.00 | Avg 100-episode Reward: 110.11
+Episode 608/1000 | Total Frames: 555856 | Epsilon: 0.1812 | Reward: 151.00 | Avg 100-episode Reward: 110.69
+Episode 609/1000 | Total Frames: 556688 | Epsilon: 0.1809 | Reward: 121.00 | Avg 100-episode Reward: 111.31
+Episode 610/1000 | Total Frames: 557520 | Epsilon: 0.1806 | Reward: 133.00 | Avg 100-episode Reward: 111.96
+Episode 611/1000 | Total Frames: 558352 | Epsilon: 0.1804 | Reward: 118.00 | Avg 100-episode Reward: 111.99
+Episode 612/1000 | Total Frames: 559184 | Epsilon: 0.1801 | Reward: 177.00 | Avg 100-episode Reward: 113.30
+Target network updated at step 560000
+Episode 613/1000 | Total Frames: 560016 | Epsilon: 0.1798 | Reward: 134.00 | Avg 100-episode Reward: 113.40
+Episode 614/1000 | Total Frames: 560848 | Epsilon: 0.1796 | Reward: 111.00 | Avg 100-episode Reward: 113.36
+Episode 615/1000 | Total Frames: 561680 | Epsilon: 0.1793 | Reward: 120.00 | Avg 100-episode Reward: 113.86
+Episode 616/1000 | Total Frames: 562512 | Epsilon: 0.1790 | Reward: 114.00 | Avg 100-episode Reward: 113.89
+Episode 617/1000 | Total Frames: 563344 | Epsilon: 0.1788 | Reward: 132.00 | Avg 100-episode Reward: 114.12
+Episode 618/1000 | Total Frames: 564176 | Epsilon: 0.1785 | Reward: 163.00 | Avg 100-episode Reward: 114.72
+Episode 619/1000 | Total Frames: 565008 | Epsilon: 0.1783 | Reward: 124.00 | Avg 100-episode Reward: 114.94
+Episode 620/1000 | Total Frames: 565840 | Epsilon: 0.1780 | Reward: 113.00 | Avg 100-episode Reward: 114.96
+Episode 621/1000 | Total Frames: 566672 | Epsilon: 0.1777 | Reward: 151.00 | Avg 100-episode Reward: 115.89
+Episode 622/1000 | Total Frames: 567504 | Epsilon: 0.1775 | Reward: 119.00 | Avg 100-episode Reward: 116.41
+Episode 623/1000 | Total Frames: 568336 | Epsilon: 0.1772 | Reward: 126.00 | Avg 100-episode Reward: 116.45
+Episode 624/1000 | Total Frames: 569168 | Epsilon: 0.1770 | Reward: 112.00 | Avg 100-episode Reward: 116.25
+Target network updated at step 570000
+Episode 625/1000 | Total Frames: 570000 | Epsilon: 0.1767 | Reward: 118.00 | Avg 100-episode Reward: 116.85
+Episode 626/1000 | Total Frames: 570832 | Epsilon: 0.1765 | Reward: 141.00 | Avg 100-episode Reward: 117.63
+Episode 627/1000 | Total Frames: 571664 | Epsilon: 0.1762 | Reward: 94.00 | Avg 100-episode Reward: 117.40
+Episode 628/1000 | Total Frames: 572496 | Epsilon: 0.1760 | Reward: 108.00 | Avg 100-episode Reward: 117.18
+Episode 629/1000 | Total Frames: 573328 | Epsilon: 0.1757 | Reward: 135.00 | Avg 100-episode Reward: 117.26
+Episode 630/1000 | Total Frames: 574160 | Epsilon: 0.1754 | Reward: 137.00 | Avg 100-episode Reward: 117.25
+Episode 631/1000 | Total Frames: 574992 | Epsilon: 0.1752 | Reward: 119.00 | Avg 100-episode Reward: 117.26
+Episode 632/1000 | Total Frames: 575824 | Epsilon: 0.1749 | Reward: 112.00 | Avg 100-episode Reward: 117.26
+Episode 633/1000 | Total Frames: 576656 | Epsilon: 0.1747 | Reward: 130.00 | Avg 100-episode Reward: 117.51
+Episode 634/1000 | Total Frames: 577488 | Epsilon: 0.1744 | Reward: 97.00 | Avg 100-episode Reward: 117.32
+Episode 635/1000 | Total Frames: 578320 | Epsilon: 0.1742 | Reward: 149.00 | Avg 100-episode Reward: 117.97
+Episode 636/1000 | Total Frames: 579152 | Epsilon: 0.1740 | Reward: 115.00 | Avg 100-episode Reward: 117.96
+Episode 637/1000 | Total Frames: 579984 | Epsilon: 0.1737 | Reward: 134.00 | Avg 100-episode Reward: 118.67
+Target network updated at step 580000
+Episode 638/1000 | Total Frames: 580816 | Epsilon: 0.1735 | Reward: 121.00 | Avg 100-episode Reward: 118.81
+Episode 639/1000 | Total Frames: 581648 | Epsilon: 0.1732 | Reward: 131.00 | Avg 100-episode Reward: 119.22
+Episode 640/1000 | Total Frames: 582480 | Epsilon: 0.1730 | Reward: 125.00 | Avg 100-episode Reward: 119.56
+Episode 641/1000 | Total Frames: 583312 | Epsilon: 0.1727 | Reward: 158.00 | Avg 100-episode Reward: 120.07
+Episode 642/1000 | Total Frames: 584144 | Epsilon: 0.1725 | Reward: 114.00 | Avg 100-episode Reward: 120.04
+Episode 643/1000 | Total Frames: 584976 | Epsilon: 0.1723 | Reward: 107.00 | Avg 100-episode Reward: 119.92
+Episode 644/1000 | Total Frames: 585808 | Epsilon: 0.1720 | Reward: 124.00 | Avg 100-episode Reward: 120.34
+Episode 645/1000 | Total Frames: 586640 | Epsilon: 0.1718 | Reward: 128.00 | Avg 100-episode Reward: 120.40
+Episode 646/1000 | Total Frames: 587472 | Epsilon: 0.1715 | Reward: 145.00 | Avg 100-episode Reward: 120.79
+Episode 647/1000 | Total Frames: 588304 | Epsilon: 0.1713 | Reward: 137.00 | Avg 100-episode Reward: 120.91
+Episode 648/1000 | Total Frames: 589136 | Epsilon: 0.1711 | Reward: 142.00 | Avg 100-episode Reward: 121.57
+Episode 649/1000 | Total Frames: 589968 | Epsilon: 0.1708 | Reward: 123.00 | Avg 100-episode Reward: 121.64
+Target network updated at step 590000
+Episode 650/1000 | Total Frames: 590800 | Epsilon: 0.1706 | Reward: 141.00 | Avg 100-episode Reward: 121.78
+Model checkpoint saved after episode 650
+Episode 651/1000 | Total Frames: 591632 | Epsilon: 0.1704 | Reward: 151.00 | Avg 100-episode Reward: 121.99
+Episode 652/1000 | Total Frames: 592464 | Epsilon: 0.1701 | Reward: 165.00 | Avg 100-episode Reward: 122.54
+Episode 653/1000 | Total Frames: 593296 | Epsilon: 0.1699 | Reward: 132.00 | Avg 100-episode Reward: 122.89
+Episode 654/1000 | Total Frames: 594128 | Epsilon: 0.1697 | Reward: 89.00 | Avg 100-episode Reward: 122.32
+Episode 655/1000 | Total Frames: 594960 | Epsilon: 0.1694 | Reward: 170.00 | Avg 100-episode Reward: 123.08
+Episode 656/1000 | Total Frames: 595792 | Epsilon: 0.1692 | Reward: 121.00 | Avg 100-episode Reward: 122.75
+Episode 657/1000 | Total Frames: 596624 | Epsilon: 0.1690 | Reward: 124.00 | Avg 100-episode Reward: 123.16
+Episode 658/1000 | Total Frames: 597456 | Epsilon: 0.1687 | Reward: 147.00 | Avg 100-episode Reward: 123.33
+Episode 659/1000 | Total Frames: 598288 | Epsilon: 0.1685 | Reward: 107.00 | Avg 100-episode Reward: 123.87
+Episode 660/1000 | Total Frames: 599120 | Epsilon: 0.1683 | Reward: 116.00 | Avg 100-episode Reward: 124.15
+Episode 661/1000 | Total Frames: 599952 | Epsilon: 0.1681 | Reward: 148.00 | Avg 100-episode Reward: 124.47
+Target network updated at step 600000
+Episode 662/1000 | Total Frames: 600784 | Epsilon: 0.1678 | Reward: 128.00 | Avg 100-episode Reward: 124.53
+Episode 663/1000 | Total Frames: 601616 | Epsilon: 0.1676 | Reward: 113.00 | Avg 100-episode Reward: 124.21
+Episode 664/1000 | Total Frames: 602448 | Epsilon: 0.1674 | Reward: 129.00 | Avg 100-episode Reward: 125.04
+Episode 665/1000 | Total Frames: 603280 | Epsilon: 0.1672 | Reward: 95.00 | Avg 100-episode Reward: 124.87
+Episode 666/1000 | Total Frames: 604112 | Epsilon: 0.1669 | Reward: 106.00 | Avg 100-episode Reward: 125.08
+Episode 667/1000 | Total Frames: 604944 | Epsilon: 0.1667 | Reward: 139.00 | Avg 100-episode Reward: 125.45
+Episode 668/1000 | Total Frames: 605776 | Epsilon: 0.1665 | Reward: 158.00 | Avg 100-episode Reward: 126.06
+Episode 669/1000 | Total Frames: 606608 | Epsilon: 0.1663 | Reward: 152.00 | Avg 100-episode Reward: 126.41
+Episode 670/1000 | Total Frames: 607440 | Epsilon: 0.1660 | Reward: 139.00 | Avg 100-episode Reward: 126.59
+Episode 671/1000 | Total Frames: 608272 | Epsilon: 0.1658 | Reward: 117.00 | Avg 100-episode Reward: 127.01
+Episode 672/1000 | Total Frames: 609104 | Epsilon: 0.1656 | Reward: 103.00 | Avg 100-episode Reward: 126.94
+Episode 673/1000 | Total Frames: 609936 | Epsilon: 0.1654 | Reward: 109.00 | Avg 100-episode Reward: 127.03
+Target network updated at step 610000
+Episode 674/1000 | Total Frames: 610768 | Epsilon: 0.1652 | Reward: 179.00 | Avg 100-episode Reward: 127.51
+Episode 675/1000 | Total Frames: 611600 | Epsilon: 0.1650 | Reward: 140.00 | Avg 100-episode Reward: 127.64
+Episode 676/1000 | Total Frames: 612432 | Epsilon: 0.1647 | Reward: 131.00 | Avg 100-episode Reward: 127.46
+Episode 677/1000 | Total Frames: 613264 | Epsilon: 0.1645 | Reward: 134.00 | Avg 100-episode Reward: 127.61
+Episode 678/1000 | Total Frames: 614096 | Epsilon: 0.1643 | Reward: 146.00 | Avg 100-episode Reward: 127.69
+Episode 679/1000 | Total Frames: 614928 | Epsilon: 0.1641 | Reward: 122.00 | Avg 100-episode Reward: 127.68
+Episode 680/1000 | Total Frames: 615760 | Epsilon: 0.1639 | Reward: 120.00 | Avg 100-episode Reward: 127.58
+Episode 681/1000 | Total Frames: 616592 | Epsilon: 0.1637 | Reward: 171.00 | Avg 100-episode Reward: 128.06
+Episode 682/1000 | Total Frames: 617424 | Epsilon: 0.1635 | Reward: 129.00 | Avg 100-episode Reward: 128.03
+Episode 683/1000 | Total Frames: 618256 | Epsilon: 0.1632 | Reward: 124.00 | Avg 100-episode Reward: 128.03
+Episode 684/1000 | Total Frames: 619088 | Epsilon: 0.1630 | Reward: 172.00 | Avg 100-episode Reward: 128.43
+Episode 685/1000 | Total Frames: 619920 | Epsilon: 0.1628 | Reward: 176.00 | Avg 100-episode Reward: 128.91
+Target network updated at step 620000
+Episode 686/1000 | Total Frames: 620752 | Epsilon: 0.1626 | Reward: 195.00 | Avg 100-episode Reward: 129.75
+Episode 687/1000 | Total Frames: 621584 | Epsilon: 0.1624 | Reward: 130.00 | Avg 100-episode Reward: 129.96
+Episode 688/1000 | Total Frames: 622416 | Epsilon: 0.1622 | Reward: 101.00 | Avg 100-episode Reward: 129.98
+Episode 689/1000 | Total Frames: 623248 | Epsilon: 0.1620 | Reward: 124.00 | Avg 100-episode Reward: 129.83
+Episode 690/1000 | Total Frames: 624080 | Epsilon: 0.1618 | Reward: 157.00 | Avg 100-episode Reward: 130.36
+Episode 691/1000 | Total Frames: 624912 | Epsilon: 0.1616 | Reward: 146.00 | Avg 100-episode Reward: 130.68
+Episode 692/1000 | Total Frames: 625744 | Epsilon: 0.1614 | Reward: 111.00 | Avg 100-episode Reward: 130.62
+Episode 693/1000 | Total Frames: 626576 | Epsilon: 0.1612 | Reward: 131.00 | Avg 100-episode Reward: 130.23
+Episode 694/1000 | Total Frames: 627408 | Epsilon: 0.1610 | Reward: 154.00 | Avg 100-episode Reward: 130.93
+Episode 695/1000 | Total Frames: 628240 | Epsilon: 0.1608 | Reward: 124.00 | Avg 100-episode Reward: 131.06
+Episode 696/1000 | Total Frames: 629072 | Epsilon: 0.1606 | Reward: 159.00 | Avg 100-episode Reward: 131.24
+Episode 697/1000 | Total Frames: 629904 | Epsilon: 0.1604 | Reward: 133.00 | Avg 100-episode Reward: 131.57
+Target network updated at step 630000
+Episode 698/1000 | Total Frames: 630736 | Epsilon: 0.1602 | Reward: 162.00 | Avg 100-episode Reward: 131.97
+Episode 699/1000 | Total Frames: 631568 | Epsilon: 0.1600 | Reward: 162.00 | Avg 100-episode Reward: 132.50
+Episode 700/1000 | Total Frames: 632400 | Epsilon: 0.1598 | Reward: 144.00 | Avg 100-episode Reward: 132.95
+Model checkpoint saved after episode 700
+Episode 701/1000 | Total Frames: 633232 | Epsilon: 0.1596 | Reward: 159.00 | Avg 100-episode Reward: 133.41
+Episode 702/1000 | Total Frames: 634064 | Epsilon: 0.1594 | Reward: 172.00 | Avg 100-episode Reward: 133.98
+Episode 703/1000 | Total Frames: 634896 | Epsilon: 0.1592 | Reward: 153.00 | Avg 100-episode Reward: 134.18
+Episode 704/1000 | Total Frames: 635728 | Epsilon: 0.1590 | Reward: 121.00 | Avg 100-episode Reward: 133.69
+Episode 705/1000 | Total Frames: 636560 | Epsilon: 0.1588 | Reward: 151.00 | Avg 100-episode Reward: 133.81
+Episode 706/1000 | Total Frames: 638224 | Epsilon: 0.1584 | Reward: 356.00 | Avg 100-episode Reward: 135.83
+Episode 707/1000 | Total Frames: 639056 | Epsilon: 0.1582 | Reward: 169.00 | Avg 100-episode Reward: 136.20
+Episode 708/1000 | Total Frames: 639888 | Epsilon: 0.1580 | Reward: 158.00 | Avg 100-episode Reward: 136.27
+Target network updated at step 640000
+Episode 709/1000 | Total Frames: 640720 | Epsilon: 0.1578 | Reward: 133.00 | Avg 100-episode Reward: 136.39
+Episode 710/1000 | Total Frames: 641552 | Epsilon: 0.1576 | Reward: 130.00 | Avg 100-episode Reward: 136.36
+Episode 711/1000 | Total Frames: 642384 | Epsilon: 0.1574 | Reward: 115.00 | Avg 100-episode Reward: 136.33
+Episode 712/1000 | Total Frames: 643216 | Epsilon: 0.1572 | Reward: 141.00 | Avg 100-episode Reward: 135.97
+Episode 713/1000 | Total Frames: 644048 | Epsilon: 0.1570 | Reward: 145.00 | Avg 100-episode Reward: 136.08
+Episode 714/1000 | Total Frames: 644880 | Epsilon: 0.1569 | Reward: 101.00 | Avg 100-episode Reward: 135.98
+Episode 715/1000 | Total Frames: 645712 | Epsilon: 0.1567 | Reward: 167.00 | Avg 100-episode Reward: 136.45
+Episode 716/1000 | Total Frames: 646544 | Epsilon: 0.1565 | Reward: 138.00 | Avg 100-episode Reward: 136.69
+Episode 717/1000 | Total Frames: 647376 | Epsilon: 0.1563 | Reward: 145.00 | Avg 100-episode Reward: 136.82
+Episode 718/1000 | Total Frames: 648208 | Epsilon: 0.1561 | Reward: 172.00 | Avg 100-episode Reward: 136.91
+Episode 719/1000 | Total Frames: 649040 | Epsilon: 0.1559 | Reward: 149.00 | Avg 100-episode Reward: 137.16
+Episode 720/1000 | Total Frames: 649872 | Epsilon: 0.1557 | Reward: 143.00 | Avg 100-episode Reward: 137.46
+Target network updated at step 650000
+Episode 721/1000 | Total Frames: 650704 | Epsilon: 0.1555 | Reward: 176.00 | Avg 100-episode Reward: 137.71
+Episode 722/1000 | Total Frames: 651536 | Epsilon: 0.1554 | Reward: 117.00 | Avg 100-episode Reward: 137.69
+Episode 723/1000 | Total Frames: 652368 | Epsilon: 0.1552 | Reward: 159.00 | Avg 100-episode Reward: 138.02
+Episode 724/1000 | Total Frames: 653200 | Epsilon: 0.1550 | Reward: 146.00 | Avg 100-episode Reward: 138.36
+Episode 725/1000 | Total Frames: 654032 | Epsilon: 0.1548 | Reward: 139.00 | Avg 100-episode Reward: 138.57
+Episode 726/1000 | Total Frames: 654864 | Epsilon: 0.1546 | Reward: 133.00 | Avg 100-episode Reward: 138.49
+Episode 727/1000 | Total Frames: 655696 | Epsilon: 0.1545 | Reward: 154.00 | Avg 100-episode Reward: 139.09
+Episode 728/1000 | Total Frames: 656528 | Epsilon: 0.1543 | Reward: 161.00 | Avg 100-episode Reward: 139.62
+Episode 729/1000 | Total Frames: 657360 | Epsilon: 0.1541 | Reward: 161.00 | Avg 100-episode Reward: 139.88
+Episode 730/1000 | Total Frames: 658192 | Epsilon: 0.1539 | Reward: 112.00 | Avg 100-episode Reward: 139.63
+Episode 731/1000 | Total Frames: 659024 | Epsilon: 0.1537 | Reward: 142.00 | Avg 100-episode Reward: 139.86
+Episode 732/1000 | Total Frames: 659856 | Epsilon: 0.1536 | Reward: 171.00 | Avg 100-episode Reward: 140.45
+Target network updated at step 660000
+Episode 733/1000 | Total Frames: 660688 | Epsilon: 0.1534 | Reward: 108.00 | Avg 100-episode Reward: 140.23
+Episode 734/1000 | Total Frames: 661520 | Epsilon: 0.1532 | Reward: 133.00 | Avg 100-episode Reward: 140.59
+Episode 735/1000 | Total Frames: 662352 | Epsilon: 0.1530 | Reward: 141.00 | Avg 100-episode Reward: 140.51
+Episode 736/1000 | Total Frames: 663184 | Epsilon: 0.1528 | Reward: 127.00 | Avg 100-episode Reward: 140.63
+Episode 737/1000 | Total Frames: 664016 | Epsilon: 0.1527 | Reward: 181.00 | Avg 100-episode Reward: 141.10
+Episode 738/1000 | Total Frames: 664848 | Epsilon: 0.1525 | Reward: 118.00 | Avg 100-episode Reward: 141.07
+Episode 739/1000 | Total Frames: 665680 | Epsilon: 0.1523 | Reward: 148.00 | Avg 100-episode Reward: 141.24
+Episode 740/1000 | Total Frames: 666512 | Epsilon: 0.1521 | Reward: 124.00 | Avg 100-episode Reward: 141.23
+Episode 741/1000 | Total Frames: 667344 | Epsilon: 0.1520 | Reward: 160.00 | Avg 100-episode Reward: 141.25
+Episode 742/1000 | Total Frames: 668176 | Epsilon: 0.1518 | Reward: 112.00 | Avg 100-episode Reward: 141.23
+Episode 743/1000 | Total Frames: 669008 | Epsilon: 0.1516 | Reward: 147.00 | Avg 100-episode Reward: 141.63
+Episode 744/1000 | Total Frames: 669840 | Epsilon: 0.1515 | Reward: 155.00 | Avg 100-episode Reward: 141.94
+Target network updated at step 670000
+Episode 745/1000 | Total Frames: 670672 | Epsilon: 0.1513 | Reward: 151.00 | Avg 100-episode Reward: 142.17
+Episode 746/1000 | Total Frames: 671504 | Epsilon: 0.1511 | Reward: 149.00 | Avg 100-episode Reward: 142.21
+Episode 747/1000 | Total Frames: 672336 | Epsilon: 0.1509 | Reward: 168.00 | Avg 100-episode Reward: 142.52
+Episode 748/1000 | Total Frames: 673168 | Epsilon: 0.1508 | Reward: 178.00 | Avg 100-episode Reward: 142.88
+Episode 749/1000 | Total Frames: 674000 | Epsilon: 0.1506 | Reward: 137.00 | Avg 100-episode Reward: 143.02
+Episode 750/1000 | Total Frames: 674832 | Epsilon: 0.1504 | Reward: 165.00 | Avg 100-episode Reward: 143.26
+Model checkpoint saved after episode 750
+Episode 751/1000 | Total Frames: 675664 | Epsilon: 0.1503 | Reward: 128.00 | Avg 100-episode Reward: 143.03
+Episode 752/1000 | Total Frames: 676496 | Epsilon: 0.1501 | Reward: 137.00 | Avg 100-episode Reward: 142.75
+Episode 753/1000 | Total Frames: 677328 | Epsilon: 0.1499 | Reward: 176.00 | Avg 100-episode Reward: 143.19
+Episode 754/1000 | Total Frames: 678160 | Epsilon: 0.1498 | Reward: 144.00 | Avg 100-episode Reward: 143.74
+Episode 755/1000 | Total Frames: 678992 | Epsilon: 0.1496 | Reward: 170.00 | Avg 100-episode Reward: 143.74
+Episode 756/1000 | Total Frames: 679824 | Epsilon: 0.1494 | Reward: 145.00 | Avg 100-episode Reward: 143.98
+Target network updated at step 680000
+Episode 757/1000 | Total Frames: 680656 | Epsilon: 0.1493 | Reward: 170.00 | Avg 100-episode Reward: 144.44
+Episode 758/1000 | Total Frames: 681488 | Epsilon: 0.1491 | Reward: 130.00 | Avg 100-episode Reward: 144.27
+Episode 759/1000 | Total Frames: 682320 | Epsilon: 0.1489 | Reward: 123.00 | Avg 100-episode Reward: 144.43
+Episode 760/1000 | Total Frames: 683152 | Epsilon: 0.1488 | Reward: 154.00 | Avg 100-episode Reward: 144.81
+Episode 761/1000 | Total Frames: 683984 | Epsilon: 0.1486 | Reward: 181.00 | Avg 100-episode Reward: 145.14
+Episode 762/1000 | Total Frames: 684816 | Epsilon: 0.1485 | Reward: 132.00 | Avg 100-episode Reward: 145.18
+Episode 763/1000 | Total Frames: 685648 | Epsilon: 0.1483 | Reward: 188.00 | Avg 100-episode Reward: 145.93
+Episode 764/1000 | Total Frames: 686480 | Epsilon: 0.1481 | Reward: 147.00 | Avg 100-episode Reward: 146.11
+Episode 765/1000 | Total Frames: 687312 | Epsilon: 0.1480 | Reward: 121.00 | Avg 100-episode Reward: 146.37
+Episode 766/1000 | Total Frames: 688144 | Epsilon: 0.1478 | Reward: 123.00 | Avg 100-episode Reward: 146.54
+Episode 767/1000 | Total Frames: 688976 | Epsilon: 0.1477 | Reward: 181.00 | Avg 100-episode Reward: 146.96
+Episode 768/1000 | Total Frames: 689808 | Epsilon: 0.1475 | Reward: 186.00 | Avg 100-episode Reward: 147.24
+Target network updated at step 690000
+Episode 769/1000 | Total Frames: 690640 | Epsilon: 0.1473 | Reward: 178.00 | Avg 100-episode Reward: 147.50
+Episode 770/1000 | Total Frames: 691472 | Epsilon: 0.1472 | Reward: 167.00 | Avg 100-episode Reward: 147.78
+Episode 771/1000 | Total Frames: 692304 | Epsilon: 0.1470 | Reward: 160.00 | Avg 100-episode Reward: 148.21
+Episode 772/1000 | Total Frames: 693136 | Epsilon: 0.1469 | Reward: 170.00 | Avg 100-episode Reward: 148.88
+Episode 773/1000 | Total Frames: 693968 | Epsilon: 0.1467 | Reward: 164.00 | Avg 100-episode Reward: 149.43
+Episode 774/1000 | Total Frames: 695632 | Epsilon: 0.1464 | Reward: 310.00 | Avg 100-episode Reward: 150.74
+Episode 775/1000 | Total Frames: 696464 | Epsilon: 0.1463 | Reward: 130.00 | Avg 100-episode Reward: 150.64
+Episode 776/1000 | Total Frames: 697296 | Epsilon: 0.1461 | Reward: 138.00 | Avg 100-episode Reward: 150.71
+Episode 777/1000 | Total Frames: 698128 | Epsilon: 0.1460 | Reward: 181.00 | Avg 100-episode Reward: 151.18
+Episode 778/1000 | Total Frames: 698960 | Epsilon: 0.1458 | Reward: 122.00 | Avg 100-episode Reward: 150.94
+Episode 779/1000 | Total Frames: 699792 | Epsilon: 0.1456 | Reward: 169.00 | Avg 100-episode Reward: 151.41
+Target network updated at step 700000
+Episode 780/1000 | Total Frames: 700624 | Epsilon: 0.1455 | Reward: 175.00 | Avg 100-episode Reward: 151.96
+Episode 781/1000 | Total Frames: 701456 | Epsilon: 0.1453 | Reward: 171.00 | Avg 100-episode Reward: 151.96
+Episode 782/1000 | Total Frames: 703120 | Epsilon: 0.1450 | Reward: 284.00 | Avg 100-episode Reward: 153.51
+Episode 783/1000 | Total Frames: 703952 | Epsilon: 0.1449 | Reward: 133.00 | Avg 100-episode Reward: 153.60
+Episode 784/1000 | Total Frames: 704784 | Epsilon: 0.1447 | Reward: 188.00 | Avg 100-episode Reward: 153.76
+Episode 785/1000 | Total Frames: 705616 | Epsilon: 0.1446 | Reward: 174.00 | Avg 100-episode Reward: 153.74
+Episode 786/1000 | Total Frames: 706448 | Epsilon: 0.1444 | Reward: 168.00 | Avg 100-episode Reward: 153.47
+Episode 787/1000 | Total Frames: 707280 | Epsilon: 0.1443 | Reward: 126.00 | Avg 100-episode Reward: 153.43
+Episode 788/1000 | Total Frames: 708112 | Epsilon: 0.1442 | Reward: 188.00 | Avg 100-episode Reward: 154.30
+Episode 789/1000 | Total Frames: 708944 | Epsilon: 0.1440 | Reward: 131.00 | Avg 100-episode Reward: 154.37
+Episode 790/1000 | Total Frames: 709776 | Epsilon: 0.1439 | Reward: 140.00 | Avg 100-episode Reward: 154.20
+Target network updated at step 710000
+Episode 791/1000 | Total Frames: 710608 | Epsilon: 0.1437 | Reward: 113.00 | Avg 100-episode Reward: 153.87
+Episode 792/1000 | Total Frames: 711440 | Epsilon: 0.1436 | Reward: 166.00 | Avg 100-episode Reward: 154.42
+Episode 793/1000 | Total Frames: 712272 | Epsilon: 0.1434 | Reward: 163.00 | Avg 100-episode Reward: 154.74
+Episode 794/1000 | Total Frames: 713104 | Epsilon: 0.1433 | Reward: 130.00 | Avg 100-episode Reward: 154.50
+Episode 795/1000 | Total Frames: 713936 | Epsilon: 0.1431 | Reward: 119.00 | Avg 100-episode Reward: 154.45
+Episode 796/1000 | Total Frames: 714768 | Epsilon: 0.1430 | Reward: 115.00 | Avg 100-episode Reward: 154.01
+Episode 797/1000 | Total Frames: 715600 | Epsilon: 0.1428 | Reward: 171.00 | Avg 100-episode Reward: 154.39
+Episode 798/1000 | Total Frames: 716432 | Epsilon: 0.1427 | Reward: 173.00 | Avg 100-episode Reward: 154.50
+Episode 799/1000 | Total Frames: 717264 | Epsilon: 0.1426 | Reward: 139.00 | Avg 100-episode Reward: 154.27
+Episode 800/1000 | Total Frames: 718096 | Epsilon: 0.1424 | Reward: 171.00 | Avg 100-episode Reward: 154.54
+Model checkpoint saved after episode 800
+Episode 801/1000 | Total Frames: 718928 | Epsilon: 0.1423 | Reward: 174.00 | Avg 100-episode Reward: 154.69
+Episode 802/1000 | Total Frames: 719760 | Epsilon: 0.1421 | Reward: 165.00 | Avg 100-episode Reward: 154.62
+Target network updated at step 720000
+Episode 803/1000 | Total Frames: 720592 | Epsilon: 0.1420 | Reward: 161.00 | Avg 100-episode Reward: 154.70
+Episode 804/1000 | Total Frames: 721424 | Epsilon: 0.1419 | Reward: 151.00 | Avg 100-episode Reward: 155.00
+Episode 805/1000 | Total Frames: 722256 | Epsilon: 0.1417 | Reward: 180.00 | Avg 100-episode Reward: 155.29
+Episode 806/1000 | Total Frames: 723088 | Epsilon: 0.1416 | Reward: 169.00 | Avg 100-episode Reward: 153.42
+Episode 807/1000 | Total Frames: 723920 | Epsilon: 0.1414 | Reward: 135.00 | Avg 100-episode Reward: 153.08
+Episode 808/1000 | Total Frames: 724752 | Epsilon: 0.1413 | Reward: 136.00 | Avg 100-episode Reward: 152.86
+Episode 809/1000 | Total Frames: 725584 | Epsilon: 0.1412 | Reward: 158.00 | Avg 100-episode Reward: 153.11
+Episode 810/1000 | Total Frames: 726416 | Epsilon: 0.1410 | Reward: 153.00 | Avg 100-episode Reward: 153.34
+Episode 811/1000 | Total Frames: 727248 | Epsilon: 0.1409 | Reward: 163.00 | Avg 100-episode Reward: 153.82
+Episode 812/1000 | Total Frames: 728080 | Epsilon: 0.1408 | Reward: 161.00 | Avg 100-episode Reward: 154.02
+Episode 813/1000 | Total Frames: 728912 | Epsilon: 0.1406 | Reward: 180.00 | Avg 100-episode Reward: 154.37
+Episode 814/1000 | Total Frames: 729744 | Epsilon: 0.1405 | Reward: 165.00 | Avg 100-episode Reward: 155.01
+Target network updated at step 730000
+Episode 815/1000 | Total Frames: 730576 | Epsilon: 0.1404 | Reward: 159.00 | Avg 100-episode Reward: 154.93
+Episode 816/1000 | Total Frames: 731408 | Epsilon: 0.1402 | Reward: 147.00 | Avg 100-episode Reward: 155.02
+Episode 817/1000 | Total Frames: 732240 | Epsilon: 0.1401 | Reward: 129.00 | Avg 100-episode Reward: 154.86
+Episode 818/1000 | Total Frames: 733072 | Epsilon: 0.1400 | Reward: 174.00 | Avg 100-episode Reward: 154.88
+Episode 819/1000 | Total Frames: 733904 | Epsilon: 0.1398 | Reward: 156.00 | Avg 100-episode Reward: 154.95
+Episode 820/1000 | Total Frames: 734736 | Epsilon: 0.1397 | Reward: 114.00 | Avg 100-episode Reward: 154.66
+Episode 821/1000 | Total Frames: 735568 | Epsilon: 0.1396 | Reward: 144.00 | Avg 100-episode Reward: 154.34
+Episode 822/1000 | Total Frames: 736400 | Epsilon: 0.1394 | Reward: 180.00 | Avg 100-episode Reward: 154.97
+Episode 823/1000 | Total Frames: 737232 | Epsilon: 0.1393 | Reward: 149.00 | Avg 100-episode Reward: 154.87
+Episode 824/1000 | Total Frames: 738064 | Epsilon: 0.1392 | Reward: 142.00 | Avg 100-episode Reward: 154.83
+Episode 825/1000 | Total Frames: 738896 | Epsilon: 0.1390 | Reward: 149.00 | Avg 100-episode Reward: 154.93
+Episode 826/1000 | Total Frames: 739728 | Epsilon: 0.1389 | Reward: 156.00 | Avg 100-episode Reward: 155.16
+Target network updated at step 740000
+Episode 827/1000 | Total Frames: 740560 | Epsilon: 0.1388 | Reward: 153.00 | Avg 100-episode Reward: 155.15
+Episode 828/1000 | Total Frames: 741392 | Epsilon: 0.1386 | Reward: 173.00 | Avg 100-episode Reward: 155.27
+Episode 829/1000 | Total Frames: 743056 | Epsilon: 0.1384 | Reward: 347.00 | Avg 100-episode Reward: 157.13
+Episode 830/1000 | Total Frames: 743888 | Epsilon: 0.1383 | Reward: 143.00 | Avg 100-episode Reward: 157.44
+Episode 831/1000 | Total Frames: 744720 | Epsilon: 0.1381 | Reward: 143.00 | Avg 100-episode Reward: 157.45
+Episode 832/1000 | Total Frames: 745552 | Epsilon: 0.1380 | Reward: 163.00 | Avg 100-episode Reward: 157.37
+Episode 833/1000 | Total Frames: 747216 | Epsilon: 0.1378 | Reward: 398.00 | Avg 100-episode Reward: 160.27
+Episode 834/1000 | Total Frames: 748048 | Epsilon: 0.1376 | Reward: 192.00 | Avg 100-episode Reward: 160.86
+Episode 835/1000 | Total Frames: 748880 | Epsilon: 0.1375 | Reward: 191.00 | Avg 100-episode Reward: 161.36
+Target network updated at step 750000
+Episode 836/1000 | Total Frames: 750544 | Epsilon: 0.1373 | Reward: 349.00 | Avg 100-episode Reward: 163.58
+Episode 837/1000 | Total Frames: 752208 | Epsilon: 0.1370 | Reward: 320.00 | Avg 100-episode Reward: 164.97
+Episode 838/1000 | Total Frames: 753040 | Epsilon: 0.1369 | Reward: 182.00 | Avg 100-episode Reward: 165.61
+Episode 839/1000 | Total Frames: 753872 | Epsilon: 0.1368 | Reward: 100.00 | Avg 100-episode Reward: 165.13
+Episode 840/1000 | Total Frames: 754704 | Epsilon: 0.1366 | Reward: 152.00 | Avg 100-episode Reward: 165.41
+Episode 841/1000 | Total Frames: 756368 | Epsilon: 0.1364 | Reward: 281.00 | Avg 100-episode Reward: 166.62
+Episode 842/1000 | Total Frames: 757200 | Epsilon: 0.1363 | Reward: 165.00 | Avg 100-episode Reward: 167.15
+Episode 843/1000 | Total Frames: 758032 | Epsilon: 0.1362 | Reward: 174.00 | Avg 100-episode Reward: 167.42
+Episode 844/1000 | Total Frames: 758864 | Epsilon: 0.1360 | Reward: 173.00 | Avg 100-episode Reward: 167.60
+Episode 845/1000 | Total Frames: 759696 | Epsilon: 0.1359 | Reward: 139.00 | Avg 100-episode Reward: 167.48
+Target network updated at step 760000
+Episode 846/1000 | Total Frames: 760528 | Epsilon: 0.1358 | Reward: 194.00 | Avg 100-episode Reward: 167.93
+Episode 847/1000 | Total Frames: 761360 | Epsilon: 0.1357 | Reward: 163.00 | Avg 100-episode Reward: 167.88
+Episode 848/1000 | Total Frames: 762192 | Epsilon: 0.1356 | Reward: 152.00 | Avg 100-episode Reward: 167.62
+Episode 849/1000 | Total Frames: 763856 | Epsilon: 0.1353 | Reward: 310.00 | Avg 100-episode Reward: 169.35
+Episode 850/1000 | Total Frames: 765520 | Epsilon: 0.1351 | Reward: 347.00 | Avg 100-episode Reward: 171.17
+Model checkpoint saved after episode 850
+Episode 851/1000 | Total Frames: 766352 | Epsilon: 0.1350 | Reward: 170.00 | Avg 100-episode Reward: 171.59
+Episode 852/1000 | Total Frames: 767184 | Epsilon: 0.1349 | Reward: 169.00 | Avg 100-episode Reward: 171.91
+Episode 853/1000 | Total Frames: 768016 | Epsilon: 0.1347 | Reward: 185.00 | Avg 100-episode Reward: 172.00
+Episode 854/1000 | Total Frames: 768848 | Epsilon: 0.1346 | Reward: 188.00 | Avg 100-episode Reward: 172.44
+Episode 855/1000 | Total Frames: 769680 | Epsilon: 0.1345 | Reward: 170.00 | Avg 100-episode Reward: 172.44
+Target network updated at step 770000
+Episode 856/1000 | Total Frames: 770512 | Epsilon: 0.1344 | Reward: 193.00 | Avg 100-episode Reward: 172.92
+Episode 857/1000 | Total Frames: 771344 | Epsilon: 0.1343 | Reward: 166.00 | Avg 100-episode Reward: 172.88
+Episode 858/1000 | Total Frames: 772176 | Epsilon: 0.1342 | Reward: 140.00 | Avg 100-episode Reward: 172.98
+Episode 859/1000 | Total Frames: 773008 | Epsilon: 0.1341 | Reward: 164.00 | Avg 100-episode Reward: 173.39
+Episode 860/1000 | Total Frames: 773840 | Epsilon: 0.1339 | Reward: 189.00 | Avg 100-episode Reward: 173.74
+Episode 861/1000 | Total Frames: 775504 | Epsilon: 0.1337 | Reward: 372.00 | Avg 100-episode Reward: 175.65
+Episode 862/1000 | Total Frames: 776336 | Epsilon: 0.1336 | Reward: 162.00 | Avg 100-episode Reward: 175.95
+Episode 863/1000 | Total Frames: 778000 | Epsilon: 0.1334 | Reward: 318.00 | Avg 100-episode Reward: 177.25
+Episode 864/1000 | Total Frames: 778832 | Epsilon: 0.1333 | Reward: 149.00 | Avg 100-episode Reward: 177.27
+Episode 865/1000 | Total Frames: 779664 | Epsilon: 0.1332 | Reward: 114.00 | Avg 100-episode Reward: 177.20
+Target network updated at step 780000
+Episode 866/1000 | Total Frames: 781328 | Epsilon: 0.1329 | Reward: 354.00 | Avg 100-episode Reward: 179.51
+Episode 867/1000 | Total Frames: 782160 | Epsilon: 0.1328 | Reward: 180.00 | Avg 100-episode Reward: 179.50
+Episode 868/1000 | Total Frames: 783824 | Epsilon: 0.1326 | Reward: 335.00 | Avg 100-episode Reward: 180.99
+Episode 869/1000 | Total Frames: 784656 | Epsilon: 0.1325 | Reward: 195.00 | Avg 100-episode Reward: 181.16
+Episode 870/1000 | Total Frames: 786320 | Epsilon: 0.1323 | Reward: 275.00 | Avg 100-episode Reward: 182.24
+Episode 871/1000 | Total Frames: 787152 | Epsilon: 0.1322 | Reward: 159.00 | Avg 100-episode Reward: 182.23
+Episode 872/1000 | Total Frames: 787984 | Epsilon: 0.1321 | Reward: 159.00 | Avg 100-episode Reward: 182.12
+Episode 873/1000 | Total Frames: 788816 | Epsilon: 0.1320 | Reward: 168.00 | Avg 100-episode Reward: 182.16
+Episode 874/1000 | Total Frames: 789648 | Epsilon: 0.1319 | Reward: 171.00 | Avg 100-episode Reward: 180.77
+Target network updated at step 790000
+Episode 875/1000 | Total Frames: 790480 | Epsilon: 0.1318 | Reward: 184.00 | Avg 100-episode Reward: 181.31
+Episode 876/1000 | Total Frames: 791312 | Epsilon: 0.1317 | Reward: 133.00 | Avg 100-episode Reward: 181.26
+Episode 877/1000 | Total Frames: 792144 | Epsilon: 0.1315 | Reward: 194.00 | Avg 100-episode Reward: 181.39
+Episode 878/1000 | Total Frames: 792976 | Epsilon: 0.1314 | Reward: 168.00 | Avg 100-episode Reward: 181.85
+Episode 879/1000 | Total Frames: 793808 | Epsilon: 0.1313 | Reward: 162.00 | Avg 100-episode Reward: 181.78
+Episode 880/1000 | Total Frames: 795472 | Epsilon: 0.1311 | Reward: 356.00 | Avg 100-episode Reward: 183.59
+Episode 881/1000 | Total Frames: 796304 | Epsilon: 0.1310 | Reward: 195.00 | Avg 100-episode Reward: 183.83
+Episode 882/1000 | Total Frames: 797136 | Epsilon: 0.1309 | Reward: 164.00 | Avg 100-episode Reward: 182.63
+Episode 883/1000 | Total Frames: 797968 | Epsilon: 0.1308 | Reward: 176.00 | Avg 100-episode Reward: 183.06
+Episode 884/1000 | Total Frames: 798800 | Epsilon: 0.1307 | Reward: 127.00 | Avg 100-episode Reward: 182.45
+Episode 885/1000 | Total Frames: 799632 | Epsilon: 0.1306 | Reward: 193.00 | Avg 100-episode Reward: 182.64
+Target network updated at step 800000
+Episode 886/1000 | Total Frames: 800464 | Epsilon: 0.1305 | Reward: 162.00 | Avg 100-episode Reward: 182.58
+Episode 887/1000 | Total Frames: 801296 | Epsilon: 0.1304 | Reward: 156.00 | Avg 100-episode Reward: 182.88
+Episode 888/1000 | Total Frames: 802128 | Epsilon: 0.1303 | Reward: 181.00 | Avg 100-episode Reward: 182.81
+Episode 889/1000 | Total Frames: 802960 | Epsilon: 0.1302 | Reward: 167.00 | Avg 100-episode Reward: 183.17
+Episode 890/1000 | Total Frames: 803792 | Epsilon: 0.1301 | Reward: 140.00 | Avg 100-episode Reward: 183.17
+Episode 891/1000 | Total Frames: 804624 | Epsilon: 0.1300 | Reward: 179.00 | Avg 100-episode Reward: 183.83
+Episode 892/1000 | Total Frames: 805456 | Epsilon: 0.1299 | Reward: 198.00 | Avg 100-episode Reward: 184.15
+Episode 893/1000 | Total Frames: 807120 | Epsilon: 0.1297 | Reward: 296.00 | Avg 100-episode Reward: 185.48
+Episode 894/1000 | Total Frames: 808784 | Epsilon: 0.1295 | Reward: 353.00 | Avg 100-episode Reward: 187.71
+Episode 895/1000 | Total Frames: 809616 | Epsilon: 0.1294 | Reward: 170.00 | Avg 100-episode Reward: 188.22
+Target network updated at step 810000
+Episode 896/1000 | Total Frames: 810448 | Epsilon: 0.1293 | Reward: 148.00 | Avg 100-episode Reward: 188.55
+Episode 897/1000 | Total Frames: 811280 | Epsilon: 0.1292 | Reward: 176.00 | Avg 100-episode Reward: 188.60
+Episode 898/1000 | Total Frames: 812112 | Epsilon: 0.1291 | Reward: 161.00 | Avg 100-episode Reward: 188.48
+Episode 899/1000 | Total Frames: 813776 | Epsilon: 0.1289 | Reward: 336.00 | Avg 100-episode Reward: 190.45
+Episode 900/1000 | Total Frames: 815440 | Epsilon: 0.1287 | Reward: 337.00 | Avg 100-episode Reward: 192.11
+Model checkpoint saved after episode 900
+Episode 901/1000 | Total Frames: 816272 | Epsilon: 0.1286 | Reward: 172.00 | Avg 100-episode Reward: 192.09
+Episode 902/1000 | Total Frames: 817104 | Epsilon: 0.1285 | Reward: 172.00 | Avg 100-episode Reward: 192.16
+Episode 903/1000 | Total Frames: 818768 | Epsilon: 0.1284 | Reward: 334.00 | Avg 100-episode Reward: 193.89
+Episode 904/1000 | Total Frames: 819600 | Epsilon: 0.1283 | Reward: 163.00 | Avg 100-episode Reward: 194.01
+Target network updated at step 820000
+Episode 905/1000 | Total Frames: 820432 | Epsilon: 0.1282 | Reward: 135.00 | Avg 100-episode Reward: 193.56
+Episode 906/1000 | Total Frames: 821264 | Epsilon: 0.1281 | Reward: 147.00 | Avg 100-episode Reward: 193.34
+Episode 907/1000 | Total Frames: 822096 | Epsilon: 0.1280 | Reward: 158.00 | Avg 100-episode Reward: 193.57
+Episode 908/1000 | Total Frames: 823760 | Epsilon: 0.1278 | Reward: 347.00 | Avg 100-episode Reward: 195.68
+Episode 909/1000 | Total Frames: 824592 | Epsilon: 0.1277 | Reward: 193.00 | Avg 100-episode Reward: 196.03
+Episode 910/1000 | Total Frames: 825424 | Epsilon: 0.1276 | Reward: 147.00 | Avg 100-episode Reward: 195.97
+Episode 911/1000 | Total Frames: 826256 | Epsilon: 0.1275 | Reward: 158.00 | Avg 100-episode Reward: 195.92
+Episode 912/1000 | Total Frames: 827088 | Epsilon: 0.1274 | Reward: 134.00 | Avg 100-episode Reward: 195.65
+Episode 913/1000 | Total Frames: 827920 | Epsilon: 0.1273 | Reward: 161.00 | Avg 100-episode Reward: 195.46
+Episode 914/1000 | Total Frames: 828752 | Epsilon: 0.1273 | Reward: 143.00 | Avg 100-episode Reward: 195.24
+Episode 915/1000 | Total Frames: 829584 | Epsilon: 0.1272 | Reward: 189.00 | Avg 100-episode Reward: 195.54
+Target network updated at step 830000
+Episode 916/1000 | Total Frames: 831248 | Epsilon: 0.1270 | Reward: 370.00 | Avg 100-episode Reward: 197.77
+Episode 917/1000 | Total Frames: 832080 | Epsilon: 0.1269 | Reward: 162.00 | Avg 100-episode Reward: 198.10
+Episode 918/1000 | Total Frames: 832912 | Epsilon: 0.1268 | Reward: 146.00 | Avg 100-episode Reward: 197.82
+Episode 919/1000 | Total Frames: 833744 | Epsilon: 0.1267 | Reward: 152.00 | Avg 100-episode Reward: 197.78
+Episode 920/1000 | Total Frames: 834576 | Epsilon: 0.1266 | Reward: 177.00 | Avg 100-episode Reward: 198.41
+Episode 921/1000 | Total Frames: 835408 | Epsilon: 0.1265 | Reward: 164.00 | Avg 100-episode Reward: 198.61
+Episode 922/1000 | Total Frames: 836240 | Epsilon: 0.1264 | Reward: 185.00 | Avg 100-episode Reward: 198.66
+Episode 923/1000 | Total Frames: 837072 | Epsilon: 0.1264 | Reward: 170.00 | Avg 100-episode Reward: 198.87
+Episode 924/1000 | Total Frames: 837904 | Epsilon: 0.1263 | Reward: 166.00 | Avg 100-episode Reward: 199.11
+Episode 925/1000 | Total Frames: 839568 | Epsilon: 0.1261 | Reward: 340.00 | Avg 100-episode Reward: 201.02
+Target network updated at step 840000
+Episode 926/1000 | Total Frames: 840400 | Epsilon: 0.1260 | Reward: 152.00 | Avg 100-episode Reward: 200.98
+Episode 927/1000 | Total Frames: 841232 | Epsilon: 0.1259 | Reward: 197.00 | Avg 100-episode Reward: 201.42
+Episode 928/1000 | Total Frames: 842064 | Epsilon: 0.1258 | Reward: 155.00 | Avg 100-episode Reward: 201.24
+Episode 929/1000 | Total Frames: 842896 | Epsilon: 0.1258 | Reward: 121.00 | Avg 100-episode Reward: 198.98
+Episode 930/1000 | Total Frames: 843728 | Epsilon: 0.1257 | Reward: 165.00 | Avg 100-episode Reward: 199.20
+Episode 931/1000 | Total Frames: 844560 | Epsilon: 0.1256 | Reward: 166.00 | Avg 100-episode Reward: 199.43
+Episode 932/1000 | Total Frames: 845392 | Epsilon: 0.1255 | Reward: 192.00 | Avg 100-episode Reward: 199.72
+Episode 933/1000 | Total Frames: 846224 | Epsilon: 0.1254 | Reward: 180.00 | Avg 100-episode Reward: 197.54
+Episode 934/1000 | Total Frames: 847056 | Epsilon: 0.1253 | Reward: 186.00 | Avg 100-episode Reward: 197.48
+Episode 935/1000 | Total Frames: 847888 | Epsilon: 0.1252 | Reward: 180.00 | Avg 100-episode Reward: 197.37
+Episode 936/1000 | Total Frames: 849552 | Epsilon: 0.1251 | Reward: 363.00 | Avg 100-episode Reward: 197.51
+Target network updated at step 850000
+Episode 937/1000 | Total Frames: 850384 | Epsilon: 0.1250 | Reward: 178.00 | Avg 100-episode Reward: 196.09
+Episode 938/1000 | Total Frames: 851216 | Epsilon: 0.1249 | Reward: 138.00 | Avg 100-episode Reward: 195.65
+Episode 939/1000 | Total Frames: 852048 | Epsilon: 0.1248 | Reward: 142.00 | Avg 100-episode Reward: 196.07
+Episode 940/1000 | Total Frames: 852880 | Epsilon: 0.1247 | Reward: 182.00 | Avg 100-episode Reward: 196.37
+Episode 941/1000 | Total Frames: 853712 | Epsilon: 0.1247 | Reward: 143.00 | Avg 100-episode Reward: 194.99
+Episode 942/1000 | Total Frames: 855376 | Epsilon: 0.1245 | Reward: 389.00 | Avg 100-episode Reward: 197.23
+Episode 943/1000 | Total Frames: 856208 | Epsilon: 0.1244 | Reward: 123.00 | Avg 100-episode Reward: 196.72
+Episode 944/1000 | Total Frames: 857040 | Epsilon: 0.1243 | Reward: 150.00 | Avg 100-episode Reward: 196.49
+Episode 945/1000 | Total Frames: 857872 | Epsilon: 0.1243 | Reward: 150.00 | Avg 100-episode Reward: 196.60
+Episode 946/1000 | Total Frames: 859536 | Epsilon: 0.1241 | Reward: 325.00 | Avg 100-episode Reward: 197.91
+Target network updated at step 860000
+Episode 947/1000 | Total Frames: 860368 | Epsilon: 0.1240 | Reward: 171.00 | Avg 100-episode Reward: 197.99
+Episode 948/1000 | Total Frames: 861200 | Epsilon: 0.1239 | Reward: 193.00 | Avg 100-episode Reward: 198.40
+Episode 949/1000 | Total Frames: 862032 | Epsilon: 0.1239 | Reward: 176.00 | Avg 100-episode Reward: 197.06
+Episode 950/1000 | Total Frames: 862864 | Epsilon: 0.1238 | Reward: 137.00 | Avg 100-episode Reward: 194.96
+Model checkpoint saved after episode 950
+Episode 951/1000 | Total Frames: 863696 | Epsilon: 0.1237 | Reward: 165.00 | Avg 100-episode Reward: 194.91
+Episode 952/1000 | Total Frames: 864528 | Epsilon: 0.1236 | Reward: 198.00 | Avg 100-episode Reward: 195.20
+Episode 953/1000 | Total Frames: 865360 | Epsilon: 0.1235 | Reward: 155.00 | Avg 100-episode Reward: 194.90
+Episode 954/1000 | Total Frames: 866192 | Epsilon: 0.1235 | Reward: 160.00 | Avg 100-episode Reward: 194.62
+Episode 955/1000 | Total Frames: 867024 | Epsilon: 0.1234 | Reward: 163.00 | Avg 100-episode Reward: 194.55
+Episode 956/1000 | Total Frames: 868688 | Epsilon: 0.1232 | Reward: 316.00 | Avg 100-episode Reward: 195.78
+Episode 957/1000 | Total Frames: 869520 | Epsilon: 0.1231 | Reward: 190.00 | Avg 100-episode Reward: 196.02
+Target network updated at step 870000
+Episode 958/1000 | Total Frames: 871184 | Epsilon: 0.1230 | Reward: 334.00 | Avg 100-episode Reward: 197.96
+Episode 959/1000 | Total Frames: 872848 | Epsilon: 0.1228 | Reward: 325.00 | Avg 100-episode Reward: 199.57
+Episode 960/1000 | Total Frames: 873680 | Epsilon: 0.1228 | Reward: 110.00 | Avg 100-episode Reward: 198.78
+Episode 961/1000 | Total Frames: 874512 | Epsilon: 0.1227 | Reward: 171.00 | Avg 100-episode Reward: 196.77
+Episode 962/1000 | Total Frames: 875344 | Epsilon: 0.1226 | Reward: 171.00 | Avg 100-episode Reward: 196.86
+Episode 963/1000 | Total Frames: 876176 | Epsilon: 0.1225 | Reward: 188.00 | Avg 100-episode Reward: 195.56
+Episode 964/1000 | Total Frames: 877008 | Epsilon: 0.1225 | Reward: 194.00 | Avg 100-episode Reward: 196.01
+Episode 965/1000 | Total Frames: 878672 | Epsilon: 0.1223 | Reward: 377.00 | Avg 100-episode Reward: 198.64
+Episode 966/1000 | Total Frames: 879504 | Epsilon: 0.1222 | Reward: 186.00 | Avg 100-episode Reward: 196.96
+Target network updated at step 880000
+Episode 967/1000 | Total Frames: 880336 | Epsilon: 0.1222 | Reward: 150.00 | Avg 100-episode Reward: 196.66
+Episode 968/1000 | Total Frames: 881168 | Epsilon: 0.1221 | Reward: 161.00 | Avg 100-episode Reward: 194.92
+Episode 969/1000 | Total Frames: 882000 | Epsilon: 0.1220 | Reward: 155.00 | Avg 100-episode Reward: 194.52
+Episode 970/1000 | Total Frames: 882832 | Epsilon: 0.1219 | Reward: 159.00 | Avg 100-episode Reward: 193.36
+Episode 971/1000 | Total Frames: 883664 | Epsilon: 0.1219 | Reward: 160.00 | Avg 100-episode Reward: 193.37
+Episode 972/1000 | Total Frames: 884496 | Epsilon: 0.1218 | Reward: 189.00 | Avg 100-episode Reward: 193.67
+Episode 973/1000 | Total Frames: 885328 | Epsilon: 0.1217 | Reward: 193.00 | Avg 100-episode Reward: 193.92
+Episode 974/1000 | Total Frames: 886160 | Epsilon: 0.1217 | Reward: 170.00 | Avg 100-episode Reward: 193.91
+Episode 975/1000 | Total Frames: 886992 | Epsilon: 0.1216 | Reward: 167.00 | Avg 100-episode Reward: 193.74
+Episode 976/1000 | Total Frames: 887824 | Epsilon: 0.1215 | Reward: 152.00 | Avg 100-episode Reward: 193.93
+Episode 977/1000 | Total Frames: 888656 | Epsilon: 0.1214 | Reward: 187.00 | Avg 100-episode Reward: 193.86
+Target network updated at step 890000
+Episode 978/1000 | Total Frames: 890320 | Epsilon: 0.1213 | Reward: 387.00 | Avg 100-episode Reward: 196.05
+Episode 979/1000 | Total Frames: 891152 | Epsilon: 0.1212 | Reward: 147.00 | Avg 100-episode Reward: 195.90
+Episode 980/1000 | Total Frames: 891984 | Epsilon: 0.1212 | Reward: 190.00 | Avg 100-episode Reward: 194.24
+Episode 981/1000 | Total Frames: 892816 | Epsilon: 0.1211 | Reward: 179.00 | Avg 100-episode Reward: 194.08
+Episode 982/1000 | Total Frames: 893648 | Epsilon: 0.1210 | Reward: 153.00 | Avg 100-episode Reward: 193.97
+Episode 983/1000 | Total Frames: 894480 | Epsilon: 0.1210 | Reward: 158.00 | Avg 100-episode Reward: 193.79
+Episode 984/1000 | Total Frames: 895312 | Epsilon: 0.1209 | Reward: 166.00 | Avg 100-episode Reward: 194.18
+Episode 985/1000 | Total Frames: 896144 | Epsilon: 0.1208 | Reward: 197.00 | Avg 100-episode Reward: 194.22
+Episode 986/1000 | Total Frames: 896976 | Epsilon: 0.1207 | Reward: 130.00 | Avg 100-episode Reward: 193.90
+Episode 987/1000 | Total Frames: 897808 | Epsilon: 0.1207 | Reward: 173.00 | Avg 100-episode Reward: 194.07
+Episode 988/1000 | Total Frames: 898640 | Epsilon: 0.1206 | Reward: 192.00 | Avg 100-episode Reward: 194.18
+Episode 989/1000 | Total Frames: 899472 | Epsilon: 0.1205 | Reward: 174.00 | Avg 100-episode Reward: 194.25
+Target network updated at step 900000
+Episode 990/1000 | Total Frames: 900304 | Epsilon: 0.1205 | Reward: 181.00 | Avg 100-episode Reward: 194.66
+Episode 991/1000 | Total Frames: 901968 | Epsilon: 0.1203 | Reward: 359.00 | Avg 100-episode Reward: 196.46
+Episode 992/1000 | Total Frames: 903632 | Epsilon: 0.1202 | Reward: 368.00 | Avg 100-episode Reward: 198.16
+Episode 993/1000 | Total Frames: 904464 | Epsilon: 0.1201 | Reward: 152.00 | Avg 100-episode Reward: 196.72
+Episode 994/1000 | Total Frames: 905296 | Epsilon: 0.1201 | Reward: 174.00 | Avg 100-episode Reward: 194.93
+Episode 995/1000 | Total Frames: 906960 | Epsilon: 0.1199 | Reward: 371.00 | Avg 100-episode Reward: 196.94
+Episode 996/1000 | Total Frames: 907792 | Epsilon: 0.1199 | Reward: 144.00 | Avg 100-episode Reward: 196.90
+Episode 997/1000 | Total Frames: 909456 | Epsilon: 0.1197 | Reward: 339.00 | Avg 100-episode Reward: 198.53
+Target network updated at step 910000
+Episode 998/1000 | Total Frames: 910288 | Epsilon: 0.1197 | Reward: 175.00 | Avg 100-episode Reward: 198.67
+Episode 999/1000 | Total Frames: 911120 | Epsilon: 0.1196 | Reward: 193.00 | Avg 100-episode Reward: 197.24
+Episode 1000/1000 | Total Frames: 911952 | Epsilon: 0.1195 | Reward: 149.00 | Avg 100-episode Reward: 195.36
+Model checkpoint saved after episode 1000
+
+--- Training Finished! ---
+Final average reward over last 100 episodes: 195.36
+Final model saved as dqn_enduro_final.pth
